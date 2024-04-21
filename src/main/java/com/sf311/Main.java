@@ -46,17 +46,16 @@ public class Main {
         for (TripleManagement.Triple triple : triples) {
             String subject = triple.getFirst().replaceAll("[\\s']+","_").replaceAll("\\([^()]*\\)", "");;
             String predicate = triple.getSecond();
-            String object = triple.getThird().replaceAll("[\\s']+","_").replaceAll("\\([^()]*\\)", "");
+            String object = triple.getThird();
+            String nsObject = triple.getThird().replaceAll("[\\s']+","_").replaceAll("\\([^()]*\\)", "");
 
             Resource subjectResource = model.createResource(exNS + subject);
             Property predicateProperty = model.createProperty(foafNS + predicate);
-            Literal literalValue = model.createLiteral(object);
-            Resource objectResource = model.createResource(exNS + object);
-
-            // String datatypeURI = XSDDatatype.XSDstring.getURI();
+            Literal literalValue = model.createTypedLiteral(object, XSDDatatype.XSDstring);
+            Resource objectResource = model.createResource(exNS + nsObject);
 
             boolean ObjectTypeExists = model.contains(subjectResource, RDF.type, "Object");
-            if (ObjectTypeExists == false) {
+            if (!ObjectTypeExists) {
                 model.add(subjectResource, RDF.type, "Object");
             }
             

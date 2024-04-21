@@ -3,18 +3,18 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
 ex:Ulrick_Dayne  a         "Object";
         foaf:HasAlias      ex:Sword_of_the_Morning;
-        foaf:HasAttribute  "Legendary_knight" , "Respected_throughout_Westeros" , "Defender_of_the_realm" , "Associated_with_the_title_\"Sword_of_the_Morning\"" , "Heroic_deeds_in_history" , "Valiant_warrior" , "Skilled_swordsman" , "Champion_of_House_Dayne";
+        foaf:HasAttribute  "Legendary knight" , "Associated with the title \"Sword of the Morning\"" , "Skilled swordsman" , "Valiant warrior" , "Defender of the realm" , "Respected throughout Westeros" , "Champion of House Dayne" , "Heroic deeds in history";
         foaf:IsMemberOf    ex:House_Dayne .
 
 ex:Robert_Baratheon  a     "Object";
         foaf:HasAncestor   ex:House_Baratheon , ex:House_Durrandon , ex:Alyn_Baratheon , ex:Argella_Durrandon , ex:Steffon_Baratheon , ex:Orys_Baratheon , ex:Harbert_Baratheon , ex:Cassana_Estermont , ex:House_Targaryen;
-        foaf:HasAttribute  "Passionate" , "Loyal" , "Stubborn" , "Resolute" , "Reckless" , "Charismatic" , "Strong" , "Assertive" , "Skilled_warrior" , "Impulsive" , "Respected_leader" , "Headstrong" , "Unyielding" , "Brave" , "Hot-tempered" , "Uncompromising";
+        foaf:HasAttribute  "Passionate" , "Loyal" , "Stubborn" , "Skilled warrior" , "Resolute" , "Reckless" , "Charismatic" , "Strong" , "Assertive" , "Impulsive" , "Respected leader" , "Headstrong" , "Unyielding" , "Brave" , "Hot-tempered" , "Uncompromising";
         foaf:HasChild      ex:Joffrey_Baratheon , ex:Myrcella_Baratheon , ex:Tommen_Baratheon;
         foaf:HasSibling    ex:Renly_Baratheon , ex:Stannis_Baratheon;
         foaf:HasSpouse     ex:Cersei_Lannister .
 
 ex:Hoster_Tully  a         "Object";
-        foaf:HasAttribute  "Part_of_the_Riverlands" , "Ally_of_House_Stark" , "Father-in-law_of_Eddard_Stark" , "Head_of_House_Tully" , "Uncle_of_Brynden_Tully" , "Characterized_as_a_wise_and_respected_lord" , "Lord_of_Riverrun" , "Father-in-law_of_Jon_Arryn" , "Ally_of_House_Arryn" , "Participated_in_Robert_s_Rebellion" , "Married_to_Minisa_Whent";
+        foaf:HasAttribute  "Characterized as a wise and respected lord" , "Head of House Tully" , "Father-in-law of Eddard Stark" , "Father-in-law of Jon Arryn" , "Ally of House Stark" , "Participated in Robert's Rebellion" , "Lord of Riverrun" , "Part of the Riverlands" , "Uncle of Brynden Tully" , "Married to Minisa Whent" , "Ally of House Arryn";
         foaf:HasChild      ex:Catelyn_Stark , ex:Lysa_Arryn , ex:Edmure_Tully;
         foaf:IsMemberOf    ex:House_Tully .
 
@@ -29,18 +29,18 @@ ex:House_Targaryen  a      "Object";
 
 ex:Daemon_Blackfyre  a     "Object";
         foaf:HasAncestor   ex:Mya_Rivers , ex:Rohanne_of_Tyrosh , ex:Brynden_Rivers , ex:House_Blackfyre , ex:Maron_Martell , ex:Myriah_Martell , ex:Rhaegel_Targaryen , ex:Rhaegal_Targaryen , ex:Naerys_Targaryen , ex:Aerys_I_Targaryen , ex:Aegon_IV_Targaryen , ex:Daeron_II_Targaryen , ex:Baelor_I_Targaryen , ex:Aegon_III_Targaryen , ex:Daena_Targaryen;
-        foaf:HasAttribute  "Determined" , "Revolutionary" , "Charismatic" , "Skilled_warrior" , "Resilient" , "Rebellious" , "Powerful" , "Aggressive" , "Unifier" , "Commander" , "Reformer" , "Ambitious" , "Strategic" , "Leader" , "Brave" , "Challenger";
+        foaf:HasAttribute  "Determined" , "Revolutionary" , "Skilled warrior" , "Charismatic" , "Resilient" , "Rebellious" , "Powerful" , "Aggressive" , "Unifier" , "Commander" , "Reformer" , "Ambitious" , "Strategic" , "Leader" , "Brave" , "Challenger";
         foaf:HasChild      ex:Aegon_Blackfyre , ex:Brynden_Rivers , ex:Haegon_Blackfyre , ex:Gwayne_Corbray , ex:Calla_Blackfyre;
         foaf:HasSpouse     ex:Calla_Blackfyre , ex:Rohanne_of_Tyrosh , ex:Redtusk;
         foaf:IsMemberOf    ex:House_Blackfyre .
 
 ex:The_Reach  a            "Object";
-        foaf:HasAttribute  "Fertile_lands_and_abundant_harvests" , "Renowned_for_its_chivalric_traditions_and_knightly_orders" , "Known_as_the_breadbasket_of_the_Seven_Kingdoms" , "Ruled_by_House_Tyrell_from_the_seat_of_Highgarden" , "Home_to_the_Arbor" , "Strategic_location_between_the_Red_Mountains_of_Dorne_and_the_Sunset_Sea";
+        foaf:HasAttribute  "Ruled by House Tyrell from the seat of Highgarden" , "Renowned for its chivalric traditions and knightly orders" , "Home to the Arbor" , "Known as the breadbasket of the Seven Kingdoms" , "Strategic location between the Red Mountains of Dorne and the Sunset Sea" , "Fertile lands and abundant harvests";
         foaf:HasHouse      ex:House_Redwyne , ex:House_Tarly , ex:House_Hightower , ex:House_Florent , ex:House_Tyrell .
 
 ex:Principality_of_Dorne
         a                  "Object";
-        foaf:HasAttribute  "Famous_for_its_warrior_culture_and_skilled_fighters" , "Home_to_the_Water_Gardens" , "Frequently_involved_in_conflicts_with_neighboring_regions" , "Known_for_its_arid_climate_and_desert_regions" , "Fiercely_independent_and_resistant_to_outside_influence" , "Ruled_by_House_Martell_from_the_seat_of_Sunspear" , "Located_in_the_southern_part_of_Westeros";
+        foaf:HasAttribute  "Ruled by House Martell from the seat of Sunspear" , "Known for its arid climate and desert regions" , "Famous for its warrior culture and skilled fighters" , "Located in the southern part of Westeros" , "Home to the Water Gardens" , "Frequently involved in conflicts with neighboring regions" , "Fiercely independent and resistant to outside influence";
         foaf:HasCapital    ex:Sunspear;
         foaf:HasHouse      ex:House_Gargalen , ex:House_Wyl , ex:House_Qorgyle , ex:House_Martell , ex:House_Manwoody , ex:House_Dayne , ex:House_Toland , ex:House_Drinkwater , ex:House_Yronwood , ex:House_Allyrion , ex:House_Vaith , ex:House_Wells , ex:House_Fowler , ex:House_Jordayne , ex:House_Blackmont , ex:House_Santagar , ex:House_Uller;
         foaf:IsRegionOf    ex:Westeros .
@@ -57,16 +57,16 @@ ex:Casterly_Rock  a       "Object";
 
 ex:Orys_Baratheon  a       "Object";
         foaf:HasAncestor   ex:Argilac_Durrandon , ex:House_Targaryen , ex:Alyn_Baratheon , ex:House_Durrandon , ex:Queen_Rhaenys_Targaryen , ex:Aegon_I_Targaryen , ex:House_Baratheon , ex:Orys_I_Baratheon , ex:Argella_Durrandon , ex:Harbert_Baratheon;
-        foaf:HasAttribute  "Disciplined" , "Trustworthy" , "Fearless" , "Well-respected" , "Resilient" , "Skilled_in_combat" , "Reliable" , "Unyielding" , "Supportive" , "Just" , "Steadfast" , "Trusted_advisor" , "Valiant" , "Committed" , "Protective" , "Loyal" , "Respected_leader" , "Honorable" , "Resourceful" , "Charismatic" , "Devoted" , "Brave" , "Strategic" , "Loyal_to_the_crown" , "Faithful" , "Strong" , "Skilled_warrior" , "Determined" , "Unwavering" , "Influential" , "Dependable" .
+        foaf:HasAttribute  "Disciplined" , "Trustworthy" , "Fearless" , "Well-respected" , "Resilient" , "Reliable" , "Unyielding" , "Supportive" , "Just" , "Steadfast" , "Trusted advisor" , "Skilled in combat" , "Valiant" , "Committed" , "Protective" , "Loyal" , "Loyal to the crown" , "Honorable" , "Resourceful" , "Charismatic" , "Devoted" , "Brave" , "Strategic" , "Faithful" , "Respected leader" , "Strong" , "Skilled warrior" , "Determined" , "Unwavering" , "Influential" , "Dependable" .
 
 ex:The_Riverlands  a       "Object";
-        foaf:HasAttribute  "Home_to_Harrenhal" , "Ruled_by_House_Tully_from_the_seat_of_Riverrun" , "Notable_for_its_varied_landscape" , "Frequently_affected_by_conflicts_due_to_its_central_location" , "Comprised_of_fertile_lands_and_numerous_rivers" , "Strategically_located_at_the_heart_of_the_Seven_Kingdoms";
+        foaf:HasAttribute  "Strategically located at the heart of the Seven Kingdoms" , "Ruled by House Tully from the seat of Riverrun" , "Comprised of fertile lands and numerous rivers" , "Notable for its varied landscape" , "Home to Harrenhal" , "Frequently affected by conflicts due to its central location";
         foaf:HasCapital    ex:Riverrun;
         foaf:HasHouse      ex:House_Mallister , ex:House_Bracken , ex:House_Frey , ex:House_Tully , ex:House_Vance , ex:House_Darry , ex:House_Blackwood , ex:House_Piper , ex:House_Whent;
         foaf:IsRegionOf    ex:Westeros .
 
 ex:Rhaegar_Targaryen  a    "Object";
-        foaf:HasAttribute  "Musically_talented" , "Controversial" , "Skilled_warrior" , "Participated_in_the_Tourney_of_Harrenhal" , "Revered_by_many" , "Prophecy_believer" , "Tragic_figure" , "Mysterious" , "Prince_of_Dragonstone" , "Secretive" , "Charismatic" , "Heir_to_the_Iron_Throne" , "Played_the_harp";
+        foaf:HasAttribute  "Controversial" , "Musically talented" , "Heir to the Iron Throne" , "Revered by many" , "Mysterious" , "Skilled warrior" , "Tragic figure" , "Prophecy believer" , "Secretive" , "Prince of Dragonstone" , "Played the harp" , "Charismatic" , "Participated in the Tourney of Harrenhal";
         foaf:HasChild      ex:Rhaenys_Targaryen , ex:Aegon_Targaryen;
         foaf:HasParent     ex:Aerys_II_Targaryen , ex:Rhaella_Targaryen;
         foaf:HasSibling    ex:Viserys_III_Targaryen , ex:Daenerys_Targaryen;
@@ -75,7 +75,7 @@ ex:Rhaegar_Targaryen  a    "Object";
 
 ex:Narys_Targaryen  a      "Object";
         foaf:HasAncestor   ex:Princess_Maekar_Targaryen , ex:King_Maekar_I_Targaryen , ex:Princess_Daella_Targaryen , ex:Queen_Rhaelle_Targaryen , ex:Viserys_II_Targaryen , ex:Queen_Naerys_Targaryen , ex:Prince_Aemon_Targaryen , ex:Prince_Aegon_V_Targaryen , ex:Prince_Daeron_Targaryen , ex:Aegon_IV_Targaryen , ex:Prince_Aerion_Targaryen;
-        foaf:HasAttribute  "Determined" , "Charismatic" , "Compassionate" , "Skillful_in_diplomacy" , "Kind" , "Brave" , "Loyal" , "Strategist" , "Intelligent";
+        foaf:HasAttribute  "Determined" , "Charismatic" , "Compassionate" , "Kind" , "Skillful in diplomacy" , "Brave" , "Loyal" , "Strategist" , "Intelligent";
         foaf:HasBirthday   ex:168_AC;
         foaf:HasChild      ex:Princess_Rhae_Targaryen , ex:Aegon_V_Targaryen , ex:Prince_Aerys_Targaryen , ex:Prince_Aerion_Targaryen , ex:Prince_Daeron_Targaryen , ex:Prince_Jaehaerys_Targaryen , ex:Prince_Duncan_Targaryen;
         foaf:HasDeathday   ex:196_AC;
@@ -85,7 +85,7 @@ ex:Narys_Targaryen  a      "Object";
 
 ex:Jon_Arryn  a            "Object";
         foaf:HasAncestor   ex:House_Arryn , ex:Jocelyn_Stark , ex:Aemma_Arryn , ex:Jon_Arryn , ex:House_Stark , ex:Alys_Arryn , ex:Rodrik_Arryn , ex:Artys_Arryn;
-        foaf:HasAttribute  "Valiant" , "Stalwart" , "Honorable" , "Protector_of_the_Vale" , "Stoic" , "Respected_leader" , "Trusted_advisor" , "Brave" , "Strategic_thinker" , "Wise" , "Defender_of_the_Realm" , "Just" , "Loyal" , "Skilled_diplomat" , "Resilient";
+        foaf:HasAttribute  "Skilled diplomat" , "Strategic thinker" , "Valiant" , "Stalwart" , "Honorable" , "Stoic" , "Brave" , "Defender of the Realm" , "Wise" , "Trusted advisor" , "Protector of the Vale" , "Respected leader" , "Just" , "Loyal" , "Resilient";
         foaf:HasBirthday   ex:220_AC;
         foaf:HasChild      ex:Robert_Arryn , ex:Hugh_Arryn;
         foaf:HasDeathday   ex:298_AC;
@@ -93,14 +93,14 @@ ex:Jon_Arryn  a            "Object";
         foaf:IsMemberOf    ex:House_Arryn .
 
 ex:Aerea_Targaryen  a      "Object";
-        foaf:HasAttribute  "Traveled_on_Balerion" , "Princess_of_House_Targaryen" , "Involved_in_the_mystery_of_Valyrian_steel" , "Granddaughter_of_Aegon_I_Targaryen" , "Half-sister_of_Visenya_Targaryen" , "Controversial_fate" , "Half-sister_of_Jaehaerys_I_Targaryen" , "Experienced_illness_during_her_travels" , "Mysterious_disappearance" , "Associated_with_the_Dragonpit_incident" , "Dragon_bonded:_Balerion" , "Dragonrider" , "Sister_of_Maegor_I_Targaryen";
+        foaf:HasAttribute  "Dragon bonded: Balerion" , "Half-sister of Jaehaerys I Targaryen" , "Mysterious disappearance" , "Traveled on Balerion" , "Controversial fate" , "Associated with the Dragonpit incident" , "Sister of Maegor I Targaryen" , "Involved in the mystery of Valyrian steel" , "Experienced illness during her travels" , "Princess of House Targaryen" , "Dragonrider" , "Half-sister of Visenya Targaryen" , "Granddaughter of Aegon I Targaryen";
         foaf:HasParent     ex:Aenys_I_Targaryen , ex:Alyssa_Velaryon;
         foaf:HasSibling    ex:Maegor_I_Targaryen , ex:Visenya_Targaryen , ex:Jaehaerys_I_Targaryen , ex:Rhaena_Targaryen;
         foaf:IsMemberOf    ex:House_Targaryen .
 
 ex:Arthur_Dayne  a         "Object";
         foaf:HasAlias      ex:Sword_of_the_Morning;
-        foaf:HasAttribute  "Valued_for_his_honor_and_prowess" , "Skilled_swordsman" , "Defended_the_Tower_of_Joy" , "Loyal_to_House_Targaryen" , "Respected_knight" , "Fought_alongside_Rhaegar_Targaryen" , "Valyrian_steel_sword:_Dawn";
+        foaf:HasAttribute  "Fought alongside Rhaegar Targaryen" , "Valued for his honor and prowess" , "Loyal to House Targaryen" , "Valyrian steel sword: Dawn" , "Respected knight" , "Skilled swordsman" , "Defended the Tower of Joy";
         foaf:HasTitle      ex:Knight , ex:Commander_of_the_Kingsguard;
         foaf:IsMemberOf    ex:House_Dayne .
 
@@ -111,24 +111,24 @@ ex:Rhaenys_Velaryon  a   "Object";
         foaf:IsMemberOf  ex:House_Velaryon .
 
 ex:Ashara_Dayne  a         "Object";
-        foaf:HasAttribute  "Tragic_figure" , "Subject_of_speculation_and_rumors_regarding_the_parentage_of_Jon_Snow" , "Associated_with_the_mystery_surrounding_the_Tower_of_Joy" , "Committed_suicide_by_throwing_herself_from_the_Palestone_Sword_tower_at_Starfall" , "Beautiful_and_alluring" , "Rumored_to_have_had_a_romantic_involvement_with_Eddard_Stark";
+        foaf:HasAttribute  "Subject of speculation and rumors regarding the parentage of Jon Snow" , "Tragic figure" , "Beautiful and alluring" , "Associated with the mystery surrounding the Tower of Joy" , "Committed suicide by throwing herself from the Palestone Sword tower at Starfall" , "Rumored to have had a romantic involvement with Eddard Stark";
         foaf:HasParent     ex:Unknown;
         foaf:HasSibling    ex:Arthur_Dayne;
         foaf:IsMemberOf    ex:House_Dayne .
 
 ex:Brynden_Tully  a        "Object";
-        foaf:HasAttribute  "Characterized_as_a_stubborn_and_fiercely_independent_individual" , "Skilled_warrior_and_military_commander" , "Skilled_tactician_and_strategist" , "Known_for_his_strong_sense_of_independence_and_refusal_to_compromise_his_principles" , "Commonly_known_as_\"The_Blackfish\"" , "Played_a_key_role_in_defending_Riverrun_during_the_War_of_the_Five_Kings" , "Respected_by_his_men_and_allies_for_his_leadership_abilities" , "Unmarried_and_without_children" , "Escaped_Riverrun_after_the_Lannister_siege_and_remained_a_fugitive" , "Joined_forces_with_the_Brotherhood_Without_Banners" , "Resided_at_Riverrun_for_many_years_before_his_exile" , "Participated_in_battles_against_House_Lannister_and_their_allies" , "Fought_alongside_his_brother" , "Exiled_from_Riverrun_after_refusing_to_support_the_marriage_of_his_niece" , "Has_a_strong_sense_of_loyalty_to_his_family_and_their_honor";
+        foaf:HasAttribute  "Resided at Riverrun for many years before his exile" , "Unmarried and without children" , "Skilled tactician and strategist" , "Known for his strong sense of independence and refusal to compromise his principles" , "Participated in battles against House Lannister and their allies" , "Characterized as a stubborn and fiercely independent individual" , "Skilled warrior and military commander" , "Played a key role in defending Riverrun during the War of the Five Kings" , "Joined forces with the Brotherhood Without Banners" , "Exiled from Riverrun after refusing to support the marriage of his niece" , "Fought alongside his brother" , "Escaped Riverrun after the Lannister siege and remained a fugitive" , "Has a strong sense of loyalty to his family and their honor" , "Respected by his men and allies for his leadership abilities" , "Commonly known as \"The Blackfish\"";
         foaf:HasSibling    ex:Hoster_Tully;
         foaf:IsMemberOf    ex:House_Tully .
 
 ex:Brandon_the_Builder
         a                  "Object";
-        foaf:HasAttribute  "Skilled_architect" , "Mythical_figure" , "Founder_of_noble_houses" , "Legendary_founder" , "Master_builder" , "Legendary_constructor";
+        foaf:HasAttribute  "Legendary founder" , "Master builder" , "Founder of noble houses" , "Mythical figure" , "Skilled architect" , "Legendary constructor";
         foaf:IsBuilderOf   ex:Moat_Cailin , ex:The_Great_Sept_of_Baelor , ex:The_Citadel , ex:Winterfell_s_Godswood , ex:The_Wall , ex:The_Hightower , ex:Winterfell_s_Crypts , ex:The_Eyrie , ex:Storm_s_End , ex:Skyreach , ex:Winterfell , ex:Riverrun , ex:The_Twins;
         foaf:IsFounderOf   ex:House_Stark .
 
 ex:The_Westerlands  a      "Object";
-        foaf:HasAttribute  "Ruled_by_House_Lannister_from_the_seat_of_Casterly_Rock" , "Home_to_major_cities_such_as_Lannisport" , "Located_in_the_western_part_of_Westeros" , "Frequently_involved_in_trade_and_commerce_due_to_its_coastal_access_and_mineral_resources" , "Known_for_its_rugged_hills_and_rocky_coastline" , "Fiercely_loyal_to_House_Lannister_and_its_interests" , "Abundant_in_mineral_wealth";
+        foaf:HasAttribute  "Home to major cities such as Lannisport" , "Known for its rugged hills and rocky coastline" , "Ruled by House Lannister from the seat of Casterly Rock" , "Abundant in mineral wealth" , "Fiercely loyal to House Lannister and its interests" , "Frequently involved in trade and commerce due to its coastal access and mineral resources" , "Located in the western part of Westeros";
         foaf:HasCapital    ex:Casterly_Rock;
         foaf:HasHouse      ex:House_Ruttiger , ex:House_Banefort , ex:House_Falwell , ex:House_Spicer , ex:House_Bettley , ex:House_Farman , ex:House_Turnberry , ex:House_Stackspear , ex:House_Brax , ex:House_Serrett , ex:House_Greenfield , ex:House_Yew , ex:House_Jast , ex:House_Swyft , ex:House_Westerling , ex:House_Lannister , ex:House_Yarwyck , ex:House_Marbrand , ex:House_Plumm , ex:House_Payne , ex:House_Lydden , ex:House_Moreland , ex:House_Hawthorne , ex:House_Lefford , ex:House_Kenning , ex:House_Parren , ex:House_Clegane , ex:House_Broom , ex:House_Sarwyck , ex:House_Prester , ex:House_Reyne , ex:House_Crakehall;
         foaf:IsRegionOf    ex:Westeros .
@@ -137,12 +137,12 @@ ex:Laenor_Velaryon  a    "Object";
         foaf:IsMemberOf  ex:House_Velaryon .
 
 ex:The_Iron_Islands  a     "Object";
-        foaf:HasAttribute  "Located_off_the_western_coast_of_Westeros" , "Home_to_the_Iron_Fleet" , "Comprised_of_a_collection_of_rocky_islands_and_isles" , "Ruled_by_House_Greyjoy_from_the_seat_of_Pyke" , "Frequently_engaged_in_conflicts_with_the_mainland_and_other_regions_of_Westeros" , "Famous_for_their_seafaring_culture_and_fierce_warriors" , "Dependent_on_raiding_and_piracy_for_their_livelihood";
+        foaf:HasAttribute  "Frequently engaged in conflicts with the mainland and other regions of Westeros" , "Comprised of a collection of rocky islands and isles" , "Home to the Iron Fleet" , "Famous for their seafaring culture and fierce warriors" , "Ruled by House Greyjoy from the seat of Pyke" , "Dependent on raiding and piracy for their livelihood" , "Located off the western coast of Westeros";
         foaf:HasHouse      ex:House_Goodbrother , ex:House_Stonetree , ex:House_Drumm , ex:House_Blacktyde , ex:House_Sunderly , ex:House_Saltcliffe , ex:House_Harlaw , ex:House_Farwynd , ex:House_Botley , ex:House_Greyjoy .
 
 ex:Maelys_Blackfyre  a     "Object";
         foaf:HasAncestor   ex:Rohanne_of_Tyrosh , ex:Rhaegal_Targaryen , ex:Aegon_IV_Targaryen , ex:Myriah_Martell , ex:Daeron_II_Targaryen , ex:Brynden_Rivers , ex:Aerys_I_Targaryen , ex:Maron_Martell , ex:Naerys_Targaryen , ex:House_Targaryen , ex:Aegor_Rivers , ex:Mya_Rivers , ex:House_Blackfyre;
-        foaf:HasAttribute  "Aggressive" , "Fearless" , "Violent" , "Conspirator" , "Skilled_in_combat" , "Threatening" , "Ambitious" , "Resilient" , "Warrior" , "Brave" , "Unpredictable" , "Reckless" , "Fierce" , "Determined" , "Fighter" , "Tyrant" , "Power-hungry" , "Proud" , "Dangerous" , "Rebellious";
+        foaf:HasAttribute  "Aggressive" , "Fearless" , "Violent" , "Conspirator" , "Threatening" , "Ambitious" , "Resilient" , "Warrior" , "Skilled in combat" , "Brave" , "Unpredictable" , "Reckless" , "Fierce" , "Determined" , "Fighter" , "Tyrant" , "Power-hungry" , "Proud" , "Dangerous" , "Rebellious";
         foaf:IsMemberOf    ex:House_Blackfyre .
 
 ex:Sunspear  a            "Object";
@@ -152,7 +152,7 @@ ex:Sunspear  a            "Object";
 
 ex:Riverrun  a              "Object";
         foaf:HasAllegiance  ex:House_Tully;
-        foaf:HasAttribute   "Strategically_located_at_the_junction_of_the_Tumblestone_and_Red_Fork_rivers" , "Frequented_by_various_noble_visitors_and_allies_of_House_Tully" , "Played_a_key_role_in_controlling_river_traffic_and_trade_in_the_Riverlands" , "Part_of_the_Seven_Kingdoms_of_Westeros" , "Frequently_involved_in_the_politics_and_conflicts_of_the_Riverlands" , "Well-fortified_castle_and_stronghold" , "Surrounded_by_a_moat_and_accessible_only_by_a_drawbridge" , "Hosts_the_Tully_family_and_their_household" , "Strategically_important_during_times_of_conflict_in_the_Riverlands_and_beyond" , "Overlooks_the_Red_Fork_River_to_the_south_and_the_Tumblestone_River_to_the_north" , "Built_with_a_central_keep_surrounded_by_high_walls_and_towers";
+        foaf:HasAttribute   "Strategically important during times of conflict in the Riverlands and beyond" , "Played a key role in controlling river traffic and trade in the Riverlands" , "Hosts the Tully family and their household" , "Frequented by various noble visitors and allies of House Tully" , "Strategically located at the junction of the Tumblestone and Red Fork rivers" , "Surrounded by a moat and accessible only by a drawbridge" , "Built with a central keep surrounded by high walls and towers" , "Well-fortified castle and stronghold" , "Overlooks the Red Fork River to the south and the Tumblestone River to the north" , "Frequently involved in the politics and conflicts of the Riverlands" , "Part of the Seven Kingdoms of Westeros";
         foaf:HasRegion      ex:The_Riverlands;
         foaf:IsLocatedIn    ex:Riverlands;
         foaf:IsSeatOf       ex:House_Tully .
@@ -161,7 +161,7 @@ ex:Jacaerys_Velaryon  a  "Object";
         foaf:IsMemberOf  ex:House_Velaryon .
 
 ex:Jon_Snow  a             "Object";
-        foaf:HasAttribute  "King_in_the_North" , "Skilled_swordsman" , "Former_Lord_Commander_of_the_Night_s_Watch" , "Rightful_heir_to_the_Iron_Throne_" , "Resurrected_by_Melisandre" , "Bastard_son_of_Eddard_Stark" , "Ends_the_series_by_returning_to_the_North_beyond_the_Wall" , "Played_a_key_role_in_the_Battle_of_Winterfell_against_the_White_Walkers" , "Trained_by_House_Stark" , "Aligned_with_Daenerys_Targaryen";
+        foaf:HasAttribute  "Former Lord Commander of the Night's Watch" , "Trained by House Stark" , "Ends the series by returning to the North beyond the Wall" , "Rightful heir to the Iron Throne (later revealed as Aegon Targaryen)" , "Skilled swordsman" , "Resurrected by Melisandre" , "Aligned with Daenerys Targaryen" , "Bastard son of Eddard Stark" , "Played a key role in the Battle of Winterfell against the White Walkers" , "King in the North";
         foaf:HasParent     ex:Eddard_Stark , ex:Unknown_mother_;
         foaf:HasSibling    ex:Bran_Stark , ex:Sansa_Stark , ex:Arya_Stark , ex:Robb_Stark , ex:Rickon_Stark;
         foaf:IsMemberOf    ex:House_Stark .
@@ -171,13 +171,13 @@ ex:Joffrey_Velaryon  a   "Object";
 
 ex:Vhagar  a               "Object";
         foaf:HasAlias      ex:The_Red_Queen , ex:Vhagar_the_Red , ex:The_Scarlet_Shadow;
-        foaf:HasAttribute  "Agile" , "Instrument_of_conquest" , "Fire-breathing" , "Resilient" , "Powerful" , "Scaly" , "Formidable" , "Fearsome" , "Fast" , "Legendary" , "Long-lived" , "Feared_by_enemies" , "Symbol_of_House_Targaryen";
+        foaf:HasAttribute  "Agile" , "Fire-breathing" , "Resilient" , "Instrument of conquest" , "Powerful" , "Scaly" , "Formidable" , "Fearsome" , "Feared by enemies" , "Symbol of House Targaryen" , "Fast" , "Legendary" , "Long-lived";
         foaf:HasRider      ex:Visenya_Targaryen , ex:Aegon_the_Conqueror;
         foaf:IsDragonOf    ex:House_Targaryen .
 
 ex:Rhaenyra_Targaryen
         a                  "Object";
-        foaf:HasAttribute  "Characterized_as_strong-willed_and_ambitious" , "Feud_with_her_half-brother_Aegon_II_Targaryen_over_the_throne" , "Claimant_during_the_Dance_of_the_Dragons_civil_war" , "Heir_to_the_Iron_Throne" , "Associated_with_the_Blacks_faction_during_the_Dance_of_the_Dragons" , "Eldest_surviving_child_of_King_Viserys_I_Targaryen";
+        foaf:HasAttribute  "Feud with her half-brother Aegon II Targaryen over the throne" , "Characterized as strong-willed and ambitious" , "Eldest surviving child of King Viserys I Targaryen" , "Heir to the Iron Throne" , "Associated with the Blacks faction during the Dance of the Dragons" , "Claimant during the Dance of the Dragons civil war";
         foaf:HasChild      ex:Maelor_Targaryen , ex:Jacaerys_Velaryon , ex:Joffrey_Velaryon , ex:Lucerys_Velaryon;
         foaf:HasParent     ex:Emma_Arryn , ex:Viserys_I_Targaryen;
         foaf:HasSibling    ex:Aegon_III_Targaryen , ex:Daeron_Targaryen , ex:Baelon_Targaryen , ex:Visaera_Targaryen , ex:Aegon_II_Targaryen;
@@ -185,18 +185,18 @@ ex:Rhaenyra_Targaryen
         foaf:IsMemberOf    ex:House_Targaryen .
 
 ex:The_Vale  a             "Object";
-        foaf:HasAttribute  "Home_to_the_Bloody_Gate" , "Located_in_the_eastern_part_of_Westeros" , "Known_for_its_isolationist_tendencies_and_neutrality_in_most_conflicts" , "Characterized_by_its_mountainous_terrain_and_natural_fortifications" , "Famous_for_its_impregnable_castle" , "Ruled_by_House_Arryn_from_the_seat_of_The_Eyrie" , "Frequently_associated_with_the_worship_of_the_Seven";
+        foaf:HasAttribute  "Famous for its impregnable castle" , "Known for its isolationist tendencies and neutrality in most conflicts" , "Frequently associated with the worship of the Seven" , "Home to the Bloody Gate" , "Located in the eastern part of Westeros" , "Characterized by its mountainous terrain and natural fortifications" , "Ruled by House Arryn from the seat of The Eyrie";
         foaf:HasHouse      ex:House_Redfort , ex:House_Arryn , ex:House_Waynwood , ex:House_Upcliff , ex:House_Royce , ex:House_Templeton , ex:House_Grafton , ex:House_Hardyng , ex:House_Hunter , ex:House_Corbray , ex:House_Sunderland , ex:House_Tollett , ex:House_Belmore , ex:House_Egen , ex:House_Melcolm , ex:House_Lynderly .
 
 ex:Daenys_Targaryen  a     "Object";
-        foaf:HasAttribute  "Also_known_as_Daenys_the_Dreamer" , "Warned_of_the_Doom_of_Valyria" , "Convinced_her_father_to_move_House_Targaryen_to_Dragonstone" , "Played_a_crucial_role_in_the_survival_of_House_Targaryen" , "Prophetic_dreamer" , "Great-great-grandmother_of_Aegon_the_Conqueror" , "Ancestor_of_House_Targaryen_in_Westeros" , "Foretold_the_destruction_of_Valyria";
+        foaf:HasAttribute  "Warned of the Doom of Valyria" , "Prophetic dreamer" , "Also known as Daenys the Dreamer" , "Ancestor of House Targaryen in Westeros" , "Great-great-grandmother of Aegon the Conqueror" , "Convinced her father to move House Targaryen to Dragonstone" , "Played a crucial role in the survival of House Targaryen" , "Foretold the destruction of Valyria";
         foaf:HasParent     ex:Unknown;
         foaf:HasSibling    ex:Unknown;
         foaf:IsMemberOf    ex:House_Targaryen .
 
 ex:Argillac_Durrandon
         a                  "Object";
-        foaf:HasAttribute  "Symbol_of_Stormlands_independence" , "Storm_King" , "Stronghold_at_Storm_s_End" , "Leader_of_House_Durrandon" , "Last_ruler_of_the_Stormlands_before_Aegon_s_Conquest" , "Fought_against_House_Targaryen_during_Aegon_s_Conquest" , "Stormlands_resistance_against_Aegon_s_conquest" , "Defeated_by_Aegon_the_Conqueror";
+        foaf:HasAttribute  "Stronghold at Storm's End" , "Stormlands' resistance against Aegon's conquest" , "Storm King" , "Defeated by Aegon the Conqueror" , "Fought against House Targaryen during Aegon's Conquest" , "Leader of House Durrandon" , "Last ruler of the Stormlands before Aegon's Conquest" , "Symbol of Stormlands' independence";
         foaf:HasChild      ex:Unknown;
         foaf:HasParent     ex:Unknown;
         foaf:HasSpouse     ex:Unknown;
@@ -205,7 +205,7 @@ ex:Argillac_Durrandon
 ex:House_Velaryon  a             "Object";
         foaf:HasAllegiance       ex:House_Targaryen;
         foaf:HasAncestralWeapon  ex:Seasnake;
-        foaf:HasAttribute        "Valyrian_descent" , "Sea_power" , "Allied_with_House_Targaryen_during_the_Dance_of_the_Dragons" , "Frequent_marriages_into_the_Targaryen_family" , "Blue_hair_and_purple_eyes" , "Played_a_crucial_role_in_the_Targaryen_conquest_of_Westeros" , "Skilled_at_naval_warfare" , "Sea_captains_and_sailors" , "Close_ties_with_House_Targaryen";
+        foaf:HasAttribute        "Sea captains and sailors" , "Skilled at naval warfare" , "Sea power" , "Allied with House Targaryen during the Dance of the Dragons" , "Close ties with House Targaryen" , "Blue hair and purple eyes" , "Valyrian descent" , "Frequent marriages into the Targaryen family" , "Played a crucial role in the Targaryen conquest of Westeros";
         foaf:HasRegion           ex:Crownlands;
         foaf:HasSeat             ex:High_Tide;
         foaf:IsLocatedIn         ex:Driftmark .
@@ -215,7 +215,7 @@ ex:Lucerys_Velaryon  a   "Object";
 
 ex:Alyssa_Velaryon  a      "Object";
         foaf:HasAncestor   ex:Corlys_Velaryon , ex:Rhaena_Targaryen , ex:House_Targaryen , ex:House_Velaryon;
-        foaf:HasAttribute  "Supportive" , "Resilient" , "Dependable" , "Influential" , "Intelligent" , "Strategic" , "Trusted_advisor" , "Disciplined" , "Well-connected" , "Charismatic" , "Devoted" , "Strategist" , "Determined" , "Loyal" , "Valiant" , "Respected" , "Skilled_in_diplomacy";
+        foaf:HasAttribute  "Supportive" , "Trusted advisor" , "Resilient" , "Dependable" , "Influential" , "Intelligent" , "Strategic" , "Disciplined" , "Well-connected" , "Charismatic" , "Skilled in diplomacy" , "Devoted" , "Strategist" , "Determined" , "Loyal" , "Valiant" , "Respected";
         foaf:HasChild      ex:Princess_Rhaenys_Targaryen , ex:Viserys_I_Targaryen , ex:Prince_Aegon_Targaryen , ex:Princess_Jaehaera_Targaryen;
         foaf:HasSpouse     ex:Baelon_Targaryen .
 
@@ -226,7 +226,7 @@ ex:The_Eyrie  a           "Object";
 
 ex:Prince_Jaehaerys_Targaryen
         a                    "Object";
-        foaf:HasAttribute    "Determined" , "Charismatic" , "Intelligent" , "Strategist" , "Brave" , "Loyal" , "Strategic" , "Respected_leader" , "Popular_among_the_people" , "Well-educated" , "Influential" , "Compassionate" , "Skilled_in_combat" , "Honorable" , "Resilient";
+        foaf:HasAttribute    "Determined" , "Charismatic" , "Intelligent" , "Strategist" , "Brave" , "Loyal" , "Strategic" , "Respected leader" , "Well-educated" , "Influential" , "Compassionate" , "Popular among the people" , "Skilled in combat" , "Honorable" , "Resilient";
         foaf:HasBirthday     ex:171_AC;
         foaf:HasDeathday     ex:Unknown;
         foaf:HasGrandparent  ex:King_Viserys_I_Targaryen , ex:Queen_Alicent_Hightower;
@@ -234,7 +234,7 @@ ex:Prince_Jaehaerys_Targaryen
         foaf:HasSibling      ex:Prince_Daeron_Targaryen , ex:Queen_Daenerys_Targaryen , ex:Prince_Aegon_Targaryen , ex:Prince_Aerion_Targaryen .
 
 ex:Tywin_Lannister  a      "Object";
-        foaf:HasAttribute  "Proud" , "Strategic_genius" , "Authoritative" , "Strategic_thinker" , "Wealthy" , "Fearless_leader" , "Loyal_to_his_family" , "Ambitious" , "Respected" , "Calculating" , "Powerful" , "Manipulative" , "Effective_administrator" , "Harsh";
+        foaf:HasAttribute  "Strategic genius" , "Proud" , "Authoritative" , "Effective administrator" , "Loyal to his family" , "Wealthy" , "Strategic thinker" , "Ambitious" , "Respected" , "Calculating" , "Powerful" , "Fearless leader" , "Manipulative" , "Harsh";
         foaf:HasChild      ex:Jaime_Lannister , ex:Cersei_Lannister , ex:Tyrion_Lannister;
         foaf:HasParent     ex:Jeyne_Marbrand , ex:Tytos_Lannister;
         foaf:HasSibling    ex:Genna_Lannister , ex:Tygett_Lannister , ex:Kevan_Lannister;
@@ -243,7 +243,7 @@ ex:Tywin_Lannister  a      "Object";
 
 ex:Visenya_Targaryen  a    "Object";
         foaf:HasAncestor   ex:Aenar_Targaryen , ex:House_Valyrian , ex:House_Targaryen , ex:Valaena_Velaryon;
-        foaf:HasAttribute  "Valiant" , "Determined" , "Respected_leader" , "Charismatic" , "Strategic" , "Honorable" , "Skilled_warrior" , "Disciplined" , "Fearless" , "Brave" , "Dependable" , "Influential";
+        foaf:HasAttribute  "Valiant" , "Determined" , "Charismatic" , "Strategic" , "Honorable" , "Respected leader" , "Disciplined" , "Fearless" , "Brave" , "Dependable" , "Skilled warrior" , "Influential";
         foaf:HasSibling    ex:Aegon_I_Targaryen , ex:Rhaenys_Targaryen .
 
 ex:Monterys_Velaryon  a  "Object";
@@ -255,22 +255,22 @@ ex:Winterfell  a          "Object";
         foaf:IsLocatedIn  ex:North .
 
 ex:The_North  a            "Object";
-        foaf:HasAttribute  "Characterized_by_its_harsh_climate_and_vast_wilderness" , "Notable_for_its_distinct_cultural_customs_and_traditions" , "Subject_to_frequent_invasions_from_wildling_raiders_and_other_northern_threats" , "Famous_for_its_strong_sense_of_honor_and_loyalty" , "Located_in_the_northern_part_of_Westeros" , "Ruled_by_House_Stark_from_the_seat_of_Winterfell" , "Home_to_the_Wall";
+        foaf:HasAttribute  "Notable for its distinct cultural customs and traditions" , "Located in the northern part of Westeros" , "Ruled by House Stark from the seat of Winterfell" , "Home to the Wall" , "Characterized by its harsh climate and vast wilderness" , "Famous for its strong sense of honor and loyalty" , "Subject to frequent invasions from wildling raiders and other northern threats";
         foaf:HasHouse      ex:House_Mormont , ex:House_Hornwood , ex:House_Ryswell , ex:House_Flint_of_the_mountains , ex:House_Stark , ex:House_Dustin , ex:House_Reed , ex:House_Cassel , ex:House_Flint , ex:House_Manderly , ex:House_Karstark , ex:House_Glover , ex:House_Tallhart , ex:House_Forrester , ex:House_Umber , ex:House_Cerwyn , ex:House_Bolton , ex:House_Poole , ex:House_Whitehill .
 
 ex:Borros_Baratheon  a     "Object";
         foaf:HasAncestor   ex:Argella_Durrandon , ex:House_Durrandon , ex:Alyn_Baratheon , ex:Orys_Baratheon , ex:House_Baratheon , ex:Harbert_Baratheon;
-        foaf:HasAttribute  "Dependable" , "Resolute" , "Steadfast" , "Respected" , "Brave" , "Trustworthy" , "Skilled_warrior" , "Loyal";
+        foaf:HasAttribute  "Dependable" , "Skilled warrior" , "Resolute" , "Steadfast" , "Respected" , "Brave" , "Trustworthy" , "Loyal";
         foaf:HasSibling    ex:Steffon_Baratheon , ex:Cassana_Baratheon , ex:Robert_Baratheon .
 
 ex:Balerion  a             "Object";
         foaf:HasAlias      ex:Balerion_the_Dread , ex:The_Black_Dread , ex:The_Great_Black_Bastard , ex:The_Terror_of_Valyria;
-        foaf:HasAttribute  "Symbol_of_House_Targaryen" , "Formidable" , "Instrument_of_conquest" , "Ferocious" , "Feared_by_enemies" , "Long-lived" , "Fire-breathing" , "Massive" , "Resilient" , "Agile" , "Fearsome" , "Intelligent" , "Fast" , "Scaly" , "Powerful" , "Legendary";
+        foaf:HasAttribute  "Instrument of conquest" , "Formidable" , "Ferocious" , "Symbol of House Targaryen" , "Long-lived" , "Fire-breathing" , "Massive" , "Resilient" , "Agile" , "Feared by enemies" , "Fearsome" , "Intelligent" , "Fast" , "Scaly" , "Powerful" , "Legendary";
         foaf:HasRider      ex:Aegon_the_Conqueror;
         foaf:IsDragonOf    ex:House_Targaryen .
 
 ex:Brandon_Stark  a        "Object";
-        foaf:HasAttribute  "Fierce" , "Inspirational" , "Skilled_swordsman" , "Heroic" , "Resilient" , "Respected" , "Protector" , "Leader" , "Adventurous" , "Brave" , "Charismatic" , "Honorable" , "Loyal" , "Headstrong";
+        foaf:HasAttribute  "Fierce" , "Inspirational" , "Heroic" , "Resilient" , "Respected" , "Protector" , "Leader" , "Adventurous" , "Brave" , "Charismatic" , "Honorable" , "Skilled swordsman" , "Loyal" , "Headstrong";
         foaf:HasParent     ex:Rickard_Stark;
         foaf:HasSibling    ex:Benjen_Stark , ex:Eddard_Stark , ex:Lyanna_Stark;
         foaf:IsMemberOf    ex:House_Stark .
@@ -281,7 +281,7 @@ ex:Highgarden  a          "Object";
         foaf:IsLocatedIn  ex:Reach .
 
 ex:Eddard_Stark  a         "Object";
-        foaf:HasAttribute  "Fatherly" , "Stoic" , "Skilled_leader" , "Resilient" , "Loyal" , "Brave" , "Just" , "Respected" , "Skilled_swordsman" , "Honorable" , "Protector";
+        foaf:HasAttribute  "Fatherly" , "Stoic" , "Resilient" , "Loyal" , "Skilled swordsman" , "Brave" , "Just" , "Respected" , "Skilled leader" , "Honorable" , "Protector";
         foaf:HasChild      ex:Arya_Stark , ex:Robb_Stark , ex:Bran_Stark , ex:Sansa_Stark , ex:Rickon_Stark;
         foaf:HasParent     ex:Rickard_Stark , ex:Lyarra_Stark;
         foaf:HasSibling    ex:Lyanna_Stark , ex:Brandon_Stark , ex:Benjen_Stark;
@@ -291,7 +291,7 @@ ex:Eddard_Stark  a         "Object";
 ex:Daenerys_Targaryen
         a                  "Object";
         foaf:HasAncestor   ex:Shaera_Targaryen , ex:Jenny_of_Oldstones , ex:Steffon_Baratheon , ex:Aerys_II_Targaryen , ex:Queen_Rhaella_Targaryen , ex:Jaehaerys_II_Targaryen , ex:King_Aegon_V_Targaryen , ex:Aegon_V_Targaryen , ex:Duncan_Targaryen , ex:King_Jaehaerys_II_Targaryen , ex:Prince_Maekar_Targaryen , ex:Aerion_Targaryen , ex:Princess_Rhaelle_Targaryen , ex:Cassana_Estermont , ex:Dyanna_Dayne , ex:King_Aerys_II_Targaryen , ex:Rhaella_Targaryen , ex:Betha_Blackwood;
-        foaf:HasAttribute  "Influential" , "Charismatic" , "Resilient" , "Queenly" , "Unifier" , "Skilled_in_combat" , "Skilled_in_diplomacy" , "Compassionate" , "Determined" , "Protector_of_the_realm" , "Brave" , "Leader_of_the_Unsullied" , "Dragon_rider" , "Breaker_of_chains" , "Mother_of_Dragons" , "Strategic";
+        foaf:HasAttribute  "Influential" , "Breaker of chains" , "Leader of the Unsullied" , "Skilled in diplomacy" , "Charismatic" , "Resilient" , "Protector of the realm" , "Queenly" , "Unifier" , "Compassionate" , "Determined" , "Mother of Dragons" , "Brave" , "Dragon rider" , "Skilled in combat" , "Strategic";
         foaf:HasChild      ex:Unnamed_Child , ex:Rhaego;
         foaf:HasSibling    ex:Rhaegar_Targaryen , ex:Viserys_Targaryen;
         foaf:HasSpouse     ex:Jon_Snow , ex:Khal_Drogo;
