@@ -1,0 +1,1078 @@
+Subject,Predicate,Object
+Narys Targaryen,HasTitle,Queen
+Narys Targaryen,IsMemberOf,House Targaryen
+Narys Targaryen,HasAncestor,Aegon IV Targaryen
+Narys Targaryen,HasAncestor,Viserys II Targaryen
+Narys Targaryen,HasAncestor,Princess Daella Targaryen
+Narys Targaryen,HasAncestor,Prince Aemon Targaryen
+Narys Targaryen,HasAncestor,Queen Naerys Targaryen
+Narys Targaryen,HasAncestor,Prince Daeron Targaryen
+Narys Targaryen,HasAncestor,Princess Maekar Targaryen
+Narys Targaryen,HasAncestor,King Maekar I Targaryen
+Narys Targaryen,HasAncestor,Prince Aerion Targaryen
+Narys Targaryen,HasAncestor,Prince Aegon V Targaryen
+Narys Targaryen,HasAncestor,Queen Rhaelle Targaryen
+Narys Targaryen,HasSibling,Baelor Targaryen
+Narys Targaryen,HasSibling,Prince Maegor Targaryen
+Narys Targaryen,HasSibling,Prince Daeron Targaryen
+Narys Targaryen,HasChild,Aegon V Targaryen
+Narys Targaryen,HasChild,Prince Duncan Targaryen
+Narys Targaryen,HasChild,Prince Jaehaerys Targaryen
+Narys Targaryen,HasChild,Prince Aerys Targaryen
+Narys Targaryen,HasChild,Princess Rhae Targaryen
+Narys Targaryen,HasChild,Prince Daeron Targaryen
+Narys Targaryen,HasChild,Prince Aerion Targaryen
+Narys Targaryen,HasAttribute,Brave
+Narys Targaryen,HasAttribute,Intelligent
+Narys Targaryen,HasAttribute,Kind
+Narys Targaryen,HasAttribute,Charismatic
+Narys Targaryen,HasAttribute,Strategist
+Narys Targaryen,HasAttribute,Loyal
+Narys Targaryen,HasAttribute,Compassionate
+Narys Targaryen,HasAttribute,Determined
+Narys Targaryen,HasAttribute,Skillful in diplomacy
+Narys Targaryen,HasBirthday,168 AC
+Narys Targaryen,HasDeathday,196 AC
+House Targaryen,HasAncestor,House Valyrian
+House Targaryen,HasAncestor,Aegon the Conqueror
+House Targaryen,HasAncestor,Rhaenys Targaryen
+House Targaryen,HasAncestor,Visenya Targaryen
+House Targaryen,HasAncestor,Maegor I Targaryen
+House Targaryen,HasAncestor,Aegon II Targaryen
+House Targaryen,HasAncestor,Jaehaerys I Targaryen
+House Targaryen,HasAncestor,Alysanne Targaryen
+House Targaryen,HasAncestor,Aegon III Targaryen
+House Targaryen,HasAncestor,Daeron I Targaryen
+House Targaryen,HasAncestor,Baelor I Targaryen
+House Targaryen,HasAncestor,Aegon IV Targaryen
+House Targaryen,HasAncestor,Naerys Targaryen
+House Targaryen,HasAncestor,Aemon Targaryen
+House Targaryen,HasAncestor,Prince Daeron Targaryen
+House Targaryen,HasAncestor,Prince Aerion Targaryen
+House Targaryen,HasAncestor,Prince Aemon Targaryen
+House Targaryen,HasAncestor,Prince Aegon Targaryen
+House Targaryen,HasAncestor,Prince Viserys Targaryen
+House Targaryen,HasAncestor,Rhaenyra Targaryen
+House Targaryen,HasAncestor,Aegon II Targaryen
+House Targaryen,HasAncestor,Daemon Targaryen
+House Targaryen,HasAncestor,Prince Aemond Targaryen
+House Targaryen,HasAncestor,Prince Aegon Targaryen
+House Targaryen,HasAncestor,Visenya Targaryen
+House Targaryen,HasAncestor,Prince Jaehaerys Targaryen
+House Targaryen,HasAncestor,Prince Maelor Targaryen
+House Targaryen,HasAncestor,Viserys I Targaryen
+House Targaryen,HasAncestor,Aegon III Targaryen
+House Targaryen,HasAncestor,Aegon IV Targaryen
+House Targaryen,HasAncestor,Queen Naerys Targaryen
+House Targaryen,HasAncestor,Prince Aemon Targaryen
+House Targaryen,HasAncestor,Prince Aegon Targaryen
+House Targaryen,HasAncestor,Queen Rhaenyra Targaryen
+House Targaryen,HasAncestor,Prince Daemon Targaryen
+House Targaryen,HasAncestor,Prince Aemond Targaryen
+House Targaryen,HasAncestor,King Aegon II Targaryen
+House Targaryen,HasAncestor,King Aegon III Targaryen
+House Targaryen,HasAncestor,Prince Daeron Targaryen
+House Targaryen,HasAncestor,Prince Baelor Targaryen
+House Targaryen,HasAncestor,Prince Viserys Targaryen
+House Targaryen,HasAncestor,Prince Daeron Targaryen
+House Targaryen,HasAncestor,Prince Aegon Targaryen
+House Targaryen,HasAncestor,Princess Rhaenyra Targaryen
+House Targaryen,HasAncestor,Prince Daemon Targaryen
+House Targaryen,HasAncestor,Prince Aemond Targaryen
+House Targaryen,HasAncestor,Prince Jaehaerys Targaryen
+House Targaryen,HasAncestor,Prince Maelor Targaryen
+House Targaryen,HasAncestor,King Viserys I Targaryen
+House Targaryen,HasAncestor,Aegon IV Targaryen
+House Targaryen,HasAncestor,Prince Daeron Targaryen
+House Targaryen,HasAncestor,Queen Naerys Targaryen
+House Targaryen,HasAncestor,Prince Aemon Targaryen
+House Targaryen,HasAncestor,Prince Aegon Targaryen
+House Targaryen,HasAncestor,Prince Jaehaerys Targaryen
+House Targaryen,HasAncestor,Prince Jaehaera Targaryen
+House Targaryen,HasAncestor,Prince Maelor Targaryen
+House Targaryen,HasAncestor,King Aegon IV Targaryen
+House Targaryen,HasAncestor,Prince Viserys Targaryen
+House Targaryen,HasAncestor,Prince Aegon Targaryen
+House Targaryen,HasAncestor,Princess Daenerys Targaryen
+House Targaryen,HasAncestor,Prince Aemon Targaryen
+House Targaryen,HasAncestor,Prince Daeron Targaryen
+House Targaryen,HasAncestor,Prince Baelor Targaryen
+House Targaryen,HasAncestor,Prince Viserys Targaryen
+House Targaryen,HasAncestor,Prince Aegon Targaryen
+House Targaryen,HasAncestor,Queen Rhaenyra Targaryen
+House Targaryen,HasAncestor,Prince Daemon Targaryen
+House Targaryen,HasAncestor,Prince Aemond Targaryen
+House Targaryen,HasAncestor,Prince Jaehaerys Targaryen
+House Targaryen,HasAncestor,Prince Jaehaera Targaryen
+House Targaryen,HasAncestor,Prince Maelor Targaryen
+House Targaryen,HasAncestor,King Aegon IV Targaryen
+House Targaryen,HasAncestor,Prince Viserys Targaryen
+House Targaryen,HasAncestor,Prince Aegon Targaryen
+House Targaryen,HasAncestor,Princess Daenerys Targaryen
+House Targaryen,HasAttribute,Powerful
+House Targaryen,HasAttribute,Ambitious
+House Targaryen,HasAttribute,Resilient
+House Targaryen,HasAttribute,Influential
+House Targaryen,HasAttribute,Reputed
+House Targaryen,HasAttribute,Distinguished
+House Targaryen,HasAttribute,Imposing
+House Targaryen,HasAttribute,Strategic
+House Targaryen,HasAttribute,Legendary
+House Targaryen,HasAttribute,Enigmatic
+Prince Jaehaerys Targaryen,HasParent,Queen Naerys Targaryen
+Prince Jaehaerys Targaryen,HasParent,King Aegon IV Targaryen
+Prince Jaehaerys Targaryen,HasGrandparent,King Viserys I Targaryen
+Prince Jaehaerys Targaryen,HasGrandparent,Queen Alicent Hightower
+Prince Jaehaerys Targaryen,HasSibling,Prince Aegon Targaryen
+Prince Jaehaerys Targaryen,HasSibling,Prince Daeron Targaryen
+Prince Jaehaerys Targaryen,HasSibling,Queen Daenerys Targaryen
+Prince Jaehaerys Targaryen,HasSibling,Prince Aerion Targaryen
+Prince Jaehaerys Targaryen,HasAttribute,Brave
+Prince Jaehaerys Targaryen,HasAttribute,Intelligent
+Prince Jaehaerys Targaryen,HasAttribute,Resilient
+Prince Jaehaerys Targaryen,HasAttribute,Strategic
+Prince Jaehaerys Targaryen,HasAttribute,Charismatic
+Prince Jaehaerys Targaryen,HasAttribute,Loyal
+Prince Jaehaerys Targaryen,HasAttribute,Determined
+Prince Jaehaerys Targaryen,HasAttribute,Influential
+Prince Jaehaerys Targaryen,HasAttribute,Compassionate
+Prince Jaehaerys Targaryen,HasAttribute,Skilled in combat
+Prince Jaehaerys Targaryen,HasAttribute,Respected leader
+Prince Jaehaerys Targaryen,HasAttribute,Strategist
+Prince Jaehaerys Targaryen,HasAttribute,Honorable
+Prince Jaehaerys Targaryen,HasAttribute,Well-educated
+Prince Jaehaerys Targaryen,HasAttribute,Popular among the people
+Prince Jaehaerys Targaryen,HasBirthday,171 AC
+Prince Jaehaerys Targaryen,HasDeathday,Unknown
+Orys Baratheon,HasAncestor,House Baratheon
+Orys Baratheon,HasAncestor,House Durrandon
+Orys Baratheon,HasAncestor,Orys I Baratheon
+Orys Baratheon,HasAncestor,Argella Durrandon
+Orys Baratheon,HasAncestor,Alyn Baratheon
+Orys Baratheon,HasAncestor,Harbert Baratheon
+Orys Baratheon,HasAncestor,House Targaryen
+Orys Baratheon,HasAncestor,Aegon I Targaryen
+Orys Baratheon,HasAncestor,Queen Rhaenys Targaryen
+Orys Baratheon,HasAncestor,Argilac Durrandon
+Orys Baratheon,HasAttribute,Brave
+Orys Baratheon,HasAttribute,Loyal
+Orys Baratheon,HasAttribute,Skilled warrior
+Orys Baratheon,HasAttribute,Strategic
+Orys Baratheon,HasAttribute,Determined
+Orys Baratheon,HasAttribute,Respected leader
+Orys Baratheon,HasAttribute,Honorable
+Orys Baratheon,HasAttribute,Charismatic
+Orys Baratheon,HasAttribute,Influential
+Orys Baratheon,HasAttribute,Faithful
+Orys Baratheon,HasAttribute,Resilient
+Orys Baratheon,HasAttribute,Strong
+Orys Baratheon,HasAttribute,Committed
+Orys Baratheon,HasAttribute,Just
+Orys Baratheon,HasAttribute,Skilled in combat
+Orys Baratheon,HasAttribute,Resourceful
+Orys Baratheon,HasAttribute,Trusted advisor
+Orys Baratheon,HasAttribute,Well-respected
+Orys Baratheon,HasAttribute,Protective
+Orys Baratheon,HasAttribute,Reliable
+Orys Baratheon,HasAttribute,Loyal to the crown
+Orys Baratheon,HasAttribute,Supportive
+Orys Baratheon,HasAttribute,Devoted
+Orys Baratheon,HasAttribute,Fearless
+Orys Baratheon,HasAttribute,Steadfast
+Orys Baratheon,HasAttribute,Unwavering
+Orys Baratheon,HasAttribute,Unyielding
+Orys Baratheon,HasAttribute,Trustworthy
+Orys Baratheon,HasAttribute,Valiant
+Orys Baratheon,HasAttribute,Disciplined
+Orys Baratheon,HasAttribute,Dependable
+Visenya Targaryen,HasAncestor,House Targaryen
+Visenya Targaryen,HasAncestor,House Valyrian
+Visenya Targaryen,HasAncestor,Aenar Targaryen
+Visenya Targaryen,HasAncestor,Valaena Velaryon
+Visenya Targaryen,HasSibling,Aegon I Targaryen
+Visenya Targaryen,HasSibling,Rhaenys Targaryen
+Visenya Targaryen,HasAttribute,Brave
+Visenya Targaryen,HasAttribute,Skilled warrior
+Visenya Targaryen,HasAttribute,Strategic
+Visenya Targaryen,HasAttribute,Determined
+Visenya Targaryen,HasAttribute,Respected leader
+Visenya Targaryen,HasAttribute,Honorable
+Visenya Targaryen,HasAttribute,Charismatic
+Visenya Targaryen,HasAttribute,Influential
+Visenya Targaryen,HasAttribute,Fearless
+Visenya Targaryen,HasAttribute,Valiant
+Visenya Targaryen,HasAttribute,Disciplined
+Visenya Targaryen,HasAttribute,Dependable
+Alyssa Velaryon,HasAncestor,House Velaryon
+Alyssa Velaryon,HasAncestor,House Targaryen
+Alyssa Velaryon,HasAncestor,Corlys Velaryon
+Alyssa Velaryon,HasAncestor,Rhaena Targaryen
+Alyssa Velaryon,HasSpouse,Baelon Targaryen
+Alyssa Velaryon,HasChild,Viserys I Targaryen
+Alyssa Velaryon,HasChild,Princess Rhaenys Targaryen
+Alyssa Velaryon,HasChild,Princess Jaehaera Targaryen
+Alyssa Velaryon,HasChild,Prince Aegon Targaryen
+Alyssa Velaryon,HasAttribute,Intelligent
+Alyssa Velaryon,HasAttribute,Strategic
+Alyssa Velaryon,HasAttribute,Loyal
+Alyssa Velaryon,HasAttribute,Influential
+Alyssa Velaryon,HasAttribute,Resilient
+Alyssa Velaryon,HasAttribute,Determined
+Alyssa Velaryon,HasAttribute,Charismatic
+Alyssa Velaryon,HasAttribute,Skilled in diplomacy
+Alyssa Velaryon,HasAttribute,Devoted
+Alyssa Velaryon,HasAttribute,Supportive
+Alyssa Velaryon,HasAttribute,Trusted advisor
+Alyssa Velaryon,HasAttribute,Respected
+Alyssa Velaryon,HasAttribute,Well-connected
+Alyssa Velaryon,HasAttribute,Strategist
+Alyssa Velaryon,HasAttribute,Valiant
+Alyssa Velaryon,HasAttribute,Dependable
+Alyssa Velaryon,HasAttribute,Disciplined
+Robert Baratheon,HasAncestor,House Baratheon
+Robert Baratheon,HasAncestor,House Durrandon
+Robert Baratheon,HasAncestor,Orys Baratheon
+Robert Baratheon,HasAncestor,Argella Durrandon
+Robert Baratheon,HasAncestor,Alyn Baratheon
+Robert Baratheon,HasAncestor,Harbert Baratheon
+Robert Baratheon,HasAncestor,House Targaryen
+Robert Baratheon,HasAncestor,Steffon Baratheon
+Robert Baratheon,HasAncestor,Cassana Estermont
+Robert Baratheon,HasAncestor,Steffon Baratheon
+Robert Baratheon,HasAncestor,Cassana Estermont
+Robert Baratheon,HasSibling,Stannis Baratheon
+Robert Baratheon,HasSibling,Renly Baratheon
+Robert Baratheon,HasChild,Joffrey Baratheon
+Robert Baratheon,HasChild,Tommen Baratheon
+Robert Baratheon,HasChild,Myrcella Baratheon
+Robert Baratheon,HasSpouse,Cersei Lannister
+Robert Baratheon,HasAttribute,Strong
+Robert Baratheon,HasAttribute,Skilled warrior
+Robert Baratheon,HasAttribute,Brave
+Robert Baratheon,HasAttribute,Charismatic
+Robert Baratheon,HasAttribute,Impulsive
+Robert Baratheon,HasAttribute,Loyal
+Robert Baratheon,HasAttribute,Passionate
+Robert Baratheon,HasAttribute,Reckless
+Robert Baratheon,HasAttribute,Respected leader
+Robert Baratheon,HasAttribute,Impulsive
+Robert Baratheon,HasAttribute,Hot-tempered
+Robert Baratheon,HasAttribute,Headstrong
+Robert Baratheon,HasAttribute,Assertive
+Robert Baratheon,HasAttribute,Resolute
+Robert Baratheon,HasAttribute,Unyielding
+Robert Baratheon,HasAttribute,Uncompromising
+Robert Baratheon,HasAttribute,Stubborn
+Borros Baratheon,HasAncestor,House Baratheon
+Borros Baratheon,HasAncestor,House Durrandon
+Borros Baratheon,HasAncestor,Orys Baratheon
+Borros Baratheon,HasAncestor,Argella Durrandon
+Borros Baratheon,HasAncestor,Alyn Baratheon
+Borros Baratheon,HasAncestor,Harbert Baratheon
+Borros Baratheon,HasSibling,Steffon Baratheon
+Borros Baratheon,HasSibling,Robert Baratheon
+Borros Baratheon,HasSibling,Cassana Baratheon
+Borros Baratheon,HasAttribute,Loyal
+Borros Baratheon,HasAttribute,Skilled warrior
+Borros Baratheon,HasAttribute,Brave
+Borros Baratheon,HasAttribute,Resolute
+Borros Baratheon,HasAttribute,Dependable
+Borros Baratheon,HasAttribute,Respected
+Borros Baratheon,HasAttribute,Steadfast
+Borros Baratheon,HasAttribute,Trustworthy
+King's Landing,IsLocatedIn,Crownlands
+King's Landing,HasOwner,House Baratheon of King's Landing
+King's Landing,HasLandmark,Red Keep
+King's Landing,HasLandmark,Great Sept of Baelor
+King's Landing,HasLandmark,Dragonpit
+King's Landing,HasLandmark,Blackwater Bay
+King's Landing,HasLandmark,Flea Bottom
+King's Landing,HasLandmark,Kingswood
+King's Landing,HasLandmark,King's Landing Harbor
+King's Landing,HasLandmark,Maidenpool
+King's Landing,HasLandmark,River Gate
+King's Landing,HasLandmark,Old Gate
+King's Landing,HasLandmark,Dragon Gate
+King's Landing,HasLandmark,King's Gate
+King's Landing,HasLandmark,Lion Gate
+King's Landing,HasLandmark,The Street of Steel
+King's Landing,HasLandmark,The Street of Silk
+King's Landing,HasLandmark,The Street of Flour
+King's Landing,HasLandmark,The Street of Looms
+King's Landing,HasLandmark,The Street of Sisters
+King's Landing,HasLandmark,The Kingsroad
+King's Landing,HasLandmark,The Kingslayer's Court
+King's Landing,HasLandmark,The Dragon's Gate
+King's Landing,HasLandmark,The Dragonpit
+King's Landing,HasLandmark,The Dragonmont
+Storm's End,IsLocatedIn,Stormlands
+Storm's End,HasOwner,House Baratheon of Storm's End
+Storm's End,HasLandmark,The Stormlands
+Storm's End,HasLandmark,The Rainwood
+Storm's End,HasLandmark,Cape Wrath
+Storm's End,HasLandmark,Shipbreaker Bay
+Storm's End,HasLandmark,Blackwater Bay
+Storm's End,HasLandmark,Dornish Marches
+Storm's End,HasLandmark,Marches
+Storm's End,HasLandmark,Boneway
+Storm's End,HasLandmark,Prince's Pass
+Storm's End,HasLandmark,Red Mountains
+Storm's End,HasLandmark,The Kingsroad
+Storm's End,HasLandmark,The Sea of Dorne
+Storm's End,HasLandmark,The Sea of Myrth
+Storm's End,HasLandmark,The Sea of Dorne
+Storm's End,HasLandmark,The Sea of Myrth
+Storm's End,HasLandmark,The Sea of Dorne
+Storm's End,HasLandmark,The Sea of Myrth
+Winterfell,IsLocatedIn,North
+Winterfell,HasOwner,House Stark
+Winterfell,HasLandmark,Winterfell Castle
+Winterfell,HasLandmark,Godswood
+Winterfell,HasLandmark,Hot Springs
+Winterfell,HasLandmark,First Keep
+Winterfell,HasLandmark,Great Keep
+Winterfell,HasLandmark,Great Hall
+Winterfell,HasLandmark,The Wolfswood
+Winterfell,HasLandmark,The Kingsroad
+Winterfell,HasLandmark,The North
+Winterfell,HasLandmark,White Knife
+Winterfell,HasLandmark,Barrowlands
+Winterfell,HasLandmark,Moat Cailin
+Winterfell,HasLandmark,The Neck
+Winterfell,HasLandmark,The Stony Shore
+Winterfell,HasLandmark,Ironman's Bay
+Winterfell,HasLandmark,Bay of Ice
+Winterfell,HasLandmark,Shivering Sea
+Casterly Rock,IsLocatedIn,Westlands
+Casterly Rock,HasOwner,House Lannister
+Casterly Rock,HasLandmark,Casterly Rock Castle
+Casterly Rock,HasLandmark,Lannisport
+Casterly Rock,HasLandmark,Gold Road
+Casterly Rock,HasLandmark,Silverhill
+Casterly Rock,HasLandmark,Crakehall
+Casterly Rock,HasLandmark,The River Road
+Casterly Rock,HasLandmark,The Ocean Road
+The Eyrie,IsLocatedIn,Vale
+The Eyrie,HasOwner,House Arryn
+The Eyrie,HasLandmark,The Eyrie Castle
+The Eyrie,HasLandmark,Bloody Gate
+The Eyrie,HasLandmark,Gate of the Moon
+The Eyrie,HasLandmark,Mountains of the Moon
+Highgarden,IsLocatedIn,Reach
+Highgarden,HasOwner,House Tyrell
+Highgarden,HasLandmark,Highgarden Castle
+Highgarden,HasLandmark,The Reach
+Highgarden,HasLandmark,The Honeywine
+Highgarden,HasLandmark,The Mander
+Sunspear,IsLocatedIn,Dorne
+Sunspear,HasOwner,House Martell
+Sunspear,HasLandmark,Sunspear Palace
+Sunspear,HasLandmark,The Water Gardens
+Sunspear,HasLandmark,Planky Town
+Sunspear,HasLandmark,Greenblood River
+Pyke,IsLocatedIn,Iron Islands
+Pyke,HasOwner,House Greyjoy
+Pyke,HasLandmark,Pyke Castle
+Pyke,HasLandmark,Ironman's Bay
+Pyke,HasLandmark,The Iron Islands
+Pyke,HasLandmark,Old Wyk
+Pyke,HasLandmark,Great Wyk
+Daenerys Targaryen,IsMemberOf,House Targaryen
+Daenerys Targaryen,HasAncestor,Aerys II Targaryen
+Daenerys Targaryen,HasAncestor,Rhaella Targaryen
+Daenerys Targaryen,HasAncestor,Aegon V Targaryen
+Daenerys Targaryen,HasAncestor,Betha Blackwood
+Daenerys Targaryen,HasAncestor,Jaehaerys II Targaryen
+Daenerys Targaryen,HasAncestor,Shaera Targaryen
+Daenerys Targaryen,HasAncestor,Steffon Baratheon
+Daenerys Targaryen,HasAncestor,Cassana Estermont
+Daenerys Targaryen,HasAncestor,King Aegon V Targaryen
+Daenerys Targaryen,HasAncestor,Princess Rhaelle Targaryen
+Daenerys Targaryen,HasAncestor,Duncan Targaryen
+Daenerys Targaryen,HasAncestor,Jenny of Oldstones
+Daenerys Targaryen,HasAncestor,Aerion Targaryen
+Daenerys Targaryen,HasAncestor,Prince Maekar Targaryen
+Daenerys Targaryen,HasAncestor,Dyanna Dayne
+Daenerys Targaryen,HasAncestor,King Jaehaerys II Targaryen
+Daenerys Targaryen,HasAncestor,Shaera Targaryen
+Daenerys Targaryen,HasAncestor,King Aerys II Targaryen
+Daenerys Targaryen,HasAncestor,Queen Rhaella Targaryen
+Daenerys Targaryen,HasSibling,Rhaegar Targaryen
+Daenerys Targaryen,HasSibling,Viserys Targaryen
+Daenerys Targaryen,HasSpouse,Khal Drogo
+Daenerys Targaryen,HasSpouse,Jon Snow
+Daenerys Targaryen,HasChild,Rhaego
+Daenerys Targaryen,HasChild,Unnamed Child
+Daenerys Targaryen,HasAttribute,Brave
+Daenerys Targaryen,HasAttribute,Compassionate
+Daenerys Targaryen,HasAttribute,Determined
+Daenerys Targaryen,HasAttribute,Resilient
+Daenerys Targaryen,HasAttribute,Strategic
+Daenerys Targaryen,HasAttribute,Charismatic
+Daenerys Targaryen,HasAttribute,Influential
+Daenerys Targaryen,HasAttribute,Skilled in diplomacy
+Daenerys Targaryen,HasAttribute,Skilled in combat
+Daenerys Targaryen,HasAttribute,Dragon rider
+Daenerys Targaryen,HasAttribute,Queenly
+Daenerys Targaryen,HasAttribute,Protector of the realm
+Daenerys Targaryen,HasAttribute,Leader of the Unsullied
+Daenerys Targaryen,HasAttribute,Breaker of chains
+Daenerys Targaryen,HasAttribute,Mother of Dragons
+Daenerys Targaryen,HasAttribute,Unifier
+Jon Arryn,IsMemberOf,House Arryn
+Jon Arryn,HasAncestor,Artys Arryn
+Jon Arryn,HasAncestor,House Arryn
+Jon Arryn,HasAncestor,Jocelyn Stark
+Jon Arryn,HasAncestor,House Stark
+Jon Arryn,HasAncestor,Alys Arryn
+Jon Arryn,HasAncestor,House Arryn
+Jon Arryn,HasAncestor,Jon Arryn
+Jon Arryn,HasAncestor,House Arryn
+Jon Arryn,HasAncestor,Aemma Arryn
+Jon Arryn,HasAncestor,House Arryn
+Jon Arryn,HasAncestor,Rodrik Arryn
+Jon Arryn,HasAncestor,House Arryn
+Jon Arryn,HasAncestor,House Arryn
+Jon Arryn,HasSpouse,Lysa Tully
+Jon Arryn,HasSpouse,Rowena Arryn
+Jon Arryn,HasChild,Robert Arryn
+Jon Arryn,HasChild,Hugh Arryn
+Jon Arryn,HasAttribute,Wise
+Jon Arryn,HasAttribute,Skilled diplomat
+Jon Arryn,HasAttribute,Respected leader
+Jon Arryn,HasAttribute,Strategic thinker
+Jon Arryn,HasAttribute,Just
+Jon Arryn,HasAttribute,Stoic
+Jon Arryn,HasAttribute,Stalwart
+Jon Arryn,HasAttribute,Resilient
+Jon Arryn,HasAttribute,Loyal
+Jon Arryn,HasAttribute,Brave
+Jon Arryn,HasAttribute,Trusted advisor
+Jon Arryn,HasAttribute,Protector of the Vale
+Jon Arryn,HasAttribute,Defender of the Realm
+Jon Arryn,HasAttribute,Valiant
+Jon Arryn,HasAttribute,Honorable
+Jon Arryn,HasBirthday,220 AC
+Jon Arryn,HasDeathday,298 AC
+Maelys Blackfyre,IsMemberOf,House Blackfyre
+Maelys Blackfyre,HasAncestor,Aegon IV Targaryen
+Maelys Blackfyre,HasAncestor,Aegor Rivers
+Maelys Blackfyre,HasAncestor,House Blackfyre
+Maelys Blackfyre,HasAncestor,Naerys Targaryen
+Maelys Blackfyre,HasAncestor,House Targaryen
+Maelys Blackfyre,HasAncestor,Daeron II Targaryen
+Maelys Blackfyre,HasAncestor,Myriah Martell
+Maelys Blackfyre,HasAncestor,Daeron II Targaryen
+Maelys Blackfyre,HasAncestor,Maron Martell
+Maelys Blackfyre,HasAncestor,Aerys I Targaryen
+Maelys Blackfyre,HasAncestor,Rhaegal Targaryen
+Maelys Blackfyre,HasAncestor,Rohanne of Tyrosh
+Maelys Blackfyre,HasAncestor,Aegon IV Targaryen
+Maelys Blackfyre,HasAncestor,House Blackfyre
+Maelys Blackfyre,HasAncestor,Brynden Rivers
+Maelys Blackfyre,HasAncestor,House Blackfyre
+Maelys Blackfyre,HasAncestor,Mya Rivers
+Maelys Blackfyre,HasAncestor,House Blackfyre
+Maelys Blackfyre,HasAncestor,House Blackfyre
+Maelys Blackfyre,HasAttribute,Fighter
+Maelys Blackfyre,HasAttribute,Warrior
+Maelys Blackfyre,HasAttribute,Skilled in combat
+Maelys Blackfyre,HasAttribute,Brave
+Maelys Blackfyre,HasAttribute,Fierce
+Maelys Blackfyre,HasAttribute,Determined
+Maelys Blackfyre,HasAttribute,Resilient
+Maelys Blackfyre,HasAttribute,Aggressive
+Maelys Blackfyre,HasAttribute,Ambitious
+Maelys Blackfyre,HasAttribute,Rebellious
+Maelys Blackfyre,HasAttribute,Proud
+Maelys Blackfyre,HasAttribute,Dangerous
+Maelys Blackfyre,HasAttribute,Power-hungry
+Maelys Blackfyre,HasAttribute,Conspirator
+Maelys Blackfyre,HasAttribute,Tyrant
+Maelys Blackfyre,HasAttribute,Threatening
+Maelys Blackfyre,HasAttribute,Unpredictable
+Maelys Blackfyre,HasAttribute,Fearless
+Maelys Blackfyre,HasAttribute,Violent
+Maelys Blackfyre,HasAttribute,Reckless
+Daemon Blackfyre,IsMemberOf,House Blackfyre
+Daemon Blackfyre,HasAncestor,Aegon IV Targaryen
+Daemon Blackfyre,HasAncestor,Daena Targaryen
+Daemon Blackfyre,HasAncestor,Aegon III Targaryen
+Daemon Blackfyre,HasAncestor,Daeron II Targaryen
+Daemon Blackfyre,HasAncestor,Myriah Martell
+Daemon Blackfyre,HasAncestor,Aegon III Targaryen
+Daemon Blackfyre,HasAncestor,Maron Martell
+Daemon Blackfyre,HasAncestor,Baelor I Targaryen
+Daemon Blackfyre,HasAncestor,Naerys Targaryen
+Daemon Blackfyre,HasAncestor,Rhaegel Targaryen
+Daemon Blackfyre,HasAncestor,House Blackfyre
+Daemon Blackfyre,HasAncestor,Daeron II Targaryen
+Daemon Blackfyre,HasAncestor,Maron Martell
+Daemon Blackfyre,HasAncestor,Aerys I Targaryen
+Daemon Blackfyre,HasAncestor,Rhaegal Targaryen
+Daemon Blackfyre,HasAncestor,Rohanne of Tyrosh
+Daemon Blackfyre,HasAncestor,Aegon IV Targaryen
+Daemon Blackfyre,HasAncestor,Daeron II Targaryen
+Daemon Blackfyre,HasAncestor,House Blackfyre
+Daemon Blackfyre,HasAncestor,Brynden Rivers
+Daemon Blackfyre,HasAncestor,Mya Rivers
+Daemon Blackfyre,HasAncestor,House Blackfyre
+Daemon Blackfyre,HasAncestor,House Blackfyre
+Daemon Blackfyre,HasSpouse,Rohanne of Tyrosh
+Daemon Blackfyre,HasSpouse,Calla Blackfyre
+Daemon Blackfyre,HasSpouse,Redtusk
+Daemon Blackfyre,HasChild,Haegon Blackfyre
+Daemon Blackfyre,HasChild,Aegon Blackfyre
+Daemon Blackfyre,HasChild,Calla Blackfyre
+Daemon Blackfyre,HasChild,Gwayne Corbray
+Daemon Blackfyre,HasChild,Brynden Rivers
+Daemon Blackfyre,HasAttribute,Skilled warrior
+Daemon Blackfyre,HasAttribute,Brave
+Daemon Blackfyre,HasAttribute,Charismatic
+Daemon Blackfyre,HasAttribute,Strategic
+Daemon Blackfyre,HasAttribute,Ambitious
+Daemon Blackfyre,HasAttribute,Determined
+Daemon Blackfyre,HasAttribute,Resilient
+Daemon Blackfyre,HasAttribute,Rebellious
+Daemon Blackfyre,HasAttribute,Aggressive
+Daemon Blackfyre,HasAttribute,Powerful
+Daemon Blackfyre,HasAttribute,Leader
+Daemon Blackfyre,HasAttribute,Commander
+Daemon Blackfyre,HasAttribute,Reformer
+Daemon Blackfyre,HasAttribute,Unifier
+Daemon Blackfyre,HasAttribute,Challenger
+Daemon Blackfyre,HasAttribute,Revolutionary
+Sheira Seastar,IsMemberOf,House Seastar
+Sheira Seastar,HasAncestor,Aegon IV Targaryen
+Sheira Seastar,HasAncestor,House Seastar
+Sheira Seastar,HasAncestor,Brynden Rivers
+Sheira Seastar,HasAncestor,House Seastar
+Sheira Seastar,HasAncestor,Mya Rivers
+Sheira Seastar,HasAncestor,House Seastar
+Sheira Seastar,HasAncestor,House Seastar
+Sheira Seastar,HasAncestor,Rohanne of Tyrosh
+Sheira Seastar,HasAncestor,Aegon IV Targaryen
+Sheira Seastar,HasAncestor,House Seastar
+Sheira Seastar,HasAncestor,Daemon Blackfyre
+Sheira Seastar,HasAncestor,House Blackfyre
+Sheira Seastar,HasAncestor,Calla Blackfyre
+Sheira Seastar,HasAncestor,House Blackfyre
+Sheira Seastar,HasAncestor,Redtusk
+Sheira Seastar,HasAncestor,House Blackfyre
+Sheira Seastar,HasSpouse,Brynden Rivers
+Sheira Seastar,HasAttribute,Beautiful
+Sheira Seastar,HasAttribute,Enigmatic
+Sheira Seastar,HasAttribute,Intelligent
+Sheira Seastar,HasAttribute,Charismatic
+Sheira Seastar,HasAttribute,Charming
+Sheira Seastar,HasAttribute,Manipulative
+Sheira Seastar,HasAttribute,Seductress
+Sheira Seastar,HasAttribute,Powerful
+Sheira Seastar,HasAttribute,Influential
+Sheira Seastar,HasAttribute,Secretive
+Sheira Seastar,HasAttribute,Unpredictable
+Sheira Seastar,HasAttribute,Mysterious
+Sheira Seastar,HasAttribute,Desired
+Sheira Seastar,HasAttribute,Fascinating
+Brandon Stark,IsMemberOf,House Stark
+Brandon Stark,HasParent,Rickard Stark
+Brandon Stark,HasSibling,Eddard Stark
+Brandon Stark,HasSibling,Benjen Stark
+Brandon Stark,HasSibling,Lyanna Stark
+Brandon Stark,HasAttribute,Brave
+Brandon Stark,HasAttribute,Skilled swordsman
+Brandon Stark,HasAttribute,Charismatic
+Brandon Stark,HasAttribute,Adventurous
+Brandon Stark,HasAttribute,Fierce
+Brandon Stark,HasAttribute,Headstrong
+Brandon Stark,HasAttribute,Loyal
+Brandon Stark,HasAttribute,Respected
+Brandon Stark,HasAttribute,Honorable
+Brandon Stark,HasAttribute,Resilient
+Brandon Stark,HasAttribute,Leader
+Brandon Stark,HasAttribute,Protector
+Brandon Stark,HasAttribute,Heroic
+Brandon Stark,HasAttribute,Inspirational
+Eddard Stark,IsMemberOf,House Stark
+Eddard Stark,HasParent,Rickard Stark
+Eddard Stark,HasParent,Lyarra Stark
+Eddard Stark,HasSibling,Brandon Stark
+Eddard Stark,HasSibling,Benjen Stark
+Eddard Stark,HasSibling,Lyanna Stark
+Eddard Stark,HasSpouse,Catelyn Stark
+Eddard Stark,HasChild,Robb Stark
+Eddard Stark,HasChild,Sansa Stark
+Eddard Stark,HasChild,Arya Stark
+Eddard Stark,HasChild,Bran Stark
+Eddard Stark,HasChild,Rickon Stark
+Eddard Stark,HasAttribute,Honorable
+Eddard Stark,HasAttribute,Just
+Eddard Stark,HasAttribute,Brave
+Eddard Stark,HasAttribute,Loyal
+Eddard Stark,HasAttribute,Respected
+Eddard Stark,HasAttribute,Protector
+Eddard Stark,HasAttribute,Fatherly
+Eddard Stark,HasAttribute,Skilled swordsman
+Eddard Stark,HasAttribute,Skilled leader
+Eddard Stark,HasAttribute,Stoic
+Eddard Stark,HasAttribute,Resilient
+Brandon the Builder,IsFounderOf,House Stark
+Brandon the Builder,IsBuilderOf,Winterfell
+Brandon the Builder,IsBuilderOf,The Wall
+Brandon the Builder,IsBuilderOf,Storm's End
+Brandon the Builder,IsBuilderOf,Riverrun
+Brandon the Builder,IsBuilderOf,The Hightower
+Brandon the Builder,IsBuilderOf,The Eyrie
+Brandon the Builder,IsBuilderOf,The Twins
+Brandon the Builder,IsBuilderOf,The Great Sept of Baelor
+Brandon the Builder,IsBuilderOf,The Citadel
+Brandon the Builder,IsBuilderOf,Moat Cailin
+Brandon the Builder,IsBuilderOf,Skyreach
+Brandon the Builder,IsBuilderOf,Winterfell's Crypts
+Brandon the Builder,IsBuilderOf,Winterfell's Godswood
+Brandon the Builder,HasAttribute,Legendary founder
+Brandon the Builder,HasAttribute,Skilled architect
+Brandon the Builder,HasAttribute,Mythical figure
+Brandon the Builder,HasAttribute,Master builder
+Brandon the Builder,HasAttribute,Founder of noble houses
+Brandon the Builder,HasAttribute,Legendary constructor
+Tywin Lannister,IsMemberOf,House Lannister
+Tywin Lannister,HasParent,Tytos Lannister
+Tywin Lannister,HasParent,Jeyne Marbrand
+Tywin Lannister,HasSibling,Kevan Lannister
+Tywin Lannister,HasSibling,Genna Lannister
+Tywin Lannister,HasSibling,Tygett Lannister
+Tywin Lannister,HasSpouse,Joanna Lannister (née Lannister)
+Tywin Lannister,HasChild,Jaime Lannister
+Tywin Lannister,HasChild,Cersei Lannister
+Tywin Lannister,HasChild,Tyrion Lannister
+Tywin Lannister,HasAttribute,Strategic genius
+Tywin Lannister,HasAttribute,Wealthy
+Tywin Lannister,HasAttribute,Proud
+Tywin Lannister,HasAttribute,Powerful
+Tywin Lannister,HasAttribute,Ambitious
+Tywin Lannister,HasAttribute,Respected
+Tywin Lannister,HasAttribute,Calculating
+Tywin Lannister,HasAttribute,Authoritative
+Tywin Lannister,HasAttribute,Manipulative
+Tywin Lannister,HasAttribute,Effective administrator
+Tywin Lannister,HasAttribute,Fearless leader
+Tywin Lannister,HasAttribute,Strategic thinker
+Tywin Lannister,HasAttribute,Loyal to his family
+Tywin Lannister,HasAttribute,Harsh
+Balerion,IsDragonOf,House Targaryen
+Balerion,HasRider,Aegon the Conqueror
+Balerion,HasAlias,The Black Dread
+Balerion,HasAlias,Balerion the Dread
+Balerion,HasAlias,The Terror of Valyria
+Balerion,HasAlias,The Great Black Bastard
+Balerion,HasAttribute,Massive
+Balerion,HasAttribute,Ferocious
+Balerion,HasAttribute,Formidable
+Balerion,HasAttribute,Fearsome
+Balerion,HasAttribute,Fire-breathing
+Balerion,HasAttribute,Legendary
+Balerion,HasAttribute,Powerful
+Balerion,HasAttribute,Intelligent
+Balerion,HasAttribute,Long-lived
+Balerion,HasAttribute,Fast
+Balerion,HasAttribute,Agile
+Balerion,HasAttribute,Scaly
+Balerion,HasAttribute,Resilient
+Balerion,HasAttribute,Feared by enemies
+Balerion,HasAttribute,Symbol of House Targaryen
+Balerion,HasAttribute,Instrument of conquest
+Vhagar,IsDragonOf,House Targaryen
+Vhagar,HasRider,Aegon the Conqueror
+Vhagar,HasRider,Visenya Targaryen
+Vhagar,HasAlias,The Red Queen
+Vhagar,HasAlias,The Scarlet Shadow
+Vhagar,HasAlias,Vhagar the Red
+Vhagar,HasAttribute,Powerful
+Vhagar,HasAttribute,Formidable
+Vhagar,HasAttribute,Fearsome
+Vhagar,HasAttribute,Fire-breathing
+Vhagar,HasAttribute,Legendary
+Vhagar,HasAttribute,Long-lived
+Vhagar,HasAttribute,Resilient
+Vhagar,HasAttribute,Fast
+Vhagar,HasAttribute,Agile
+Vhagar,HasAttribute,Scaly
+Vhagar,HasAttribute,Feared by enemies
+Vhagar,HasAttribute,Symbol of House Targaryen
+Vhagar,HasAttribute,Instrument of conquest
+Argillac Durrandon,IsRulerOf,The Stormlands
+Argillac Durrandon,HasParent,Unknown
+Argillac Durrandon,HasSpouse,Unknown
+Argillac Durrandon,HasChild,Unknown
+Argillac Durrandon,HasAttribute,Storm King
+Argillac Durrandon,HasAttribute,Defeated by Aegon the Conqueror
+Argillac Durrandon,HasAttribute,Last ruler of the Stormlands before Aegon's Conquest
+Argillac Durrandon,HasAttribute,Leader of House Durrandon
+Argillac Durrandon,HasAttribute,Stormlands' resistance against Aegon's conquest
+Argillac Durrandon,HasAttribute,Stronghold at Storm's End
+Argillac Durrandon,HasAttribute,Fought against House Targaryen during Aegon's Conquest
+Argillac Durrandon,HasAttribute,Symbol of Stormlands' independence
+Rhaegar Targaryen,IsMemberOf,House Targaryen
+Rhaegar Targaryen,HasParent,Aerys II Targaryen
+Rhaegar Targaryen,HasParent,Rhaella Targaryen
+Rhaegar Targaryen,HasSibling,Viserys III Targaryen
+Rhaegar Targaryen,HasSibling,Daenerys Targaryen
+Rhaegar Targaryen,HasSpouse,Elia Martell
+Rhaegar Targaryen,HasChild,Rhaenys Targaryen
+Rhaegar Targaryen,HasChild,Aegon Targaryen
+Rhaegar Targaryen,HasAttribute,Prince of Dragonstone
+Rhaegar Targaryen,HasAttribute,Heir to the Iron Throne
+Rhaegar Targaryen,HasAttribute,Skilled warrior
+Rhaegar Targaryen,HasAttribute,Charismatic
+Rhaegar Targaryen,HasAttribute,Musically talented
+Rhaegar Targaryen,HasAttribute,Revered by many
+Rhaegar Targaryen,HasAttribute,Tragic figure
+Rhaegar Targaryen,HasAttribute,Prophecy believer
+Rhaegar Targaryen,HasAttribute,Mysterious
+Rhaegar Targaryen,HasAttribute,Controversial
+Rhaegar Targaryen,HasAttribute,Secretive
+Rhaegar Targaryen,HasAttribute,Played the harp
+Rhaegar Targaryen,HasAttribute,Participated in the Tourney of Harrenhal
+Aerea Targaryen,IsMemberOf,House Targaryen
+Aerea Targaryen,HasParent,Aenys I Targaryen
+Aerea Targaryen,HasParent,Alyssa Velaryon
+Aerea Targaryen,HasSibling,Rhaena Targaryen
+Aerea Targaryen,HasSibling,Maegor I Targaryen
+Aerea Targaryen,HasSibling,Visenya Targaryen
+Aerea Targaryen,HasSibling,Jaehaerys I Targaryen
+Aerea Targaryen,HasAttribute,Princess of House Targaryen
+Aerea Targaryen,HasAttribute,Granddaughter of Aegon I Targaryen
+Aerea Targaryen,HasAttribute,Sister of Maegor I Targaryen
+Aerea Targaryen,HasAttribute,Half-sister of Visenya Targaryen
+Aerea Targaryen,HasAttribute,Half-sister of Jaehaerys I Targaryen
+Aerea Targaryen,HasAttribute,Mysterious disappearance
+Aerea Targaryen,HasAttribute,Controversial fate
+Aerea Targaryen,HasAttribute,Involved in the mystery of Valyrian steel
+Aerea Targaryen,HasAttribute,Associated with the Dragonpit incident
+Aerea Targaryen,HasAttribute,Dragonrider
+Aerea Targaryen,HasAttribute,Dragon bonded: Balerion
+Aerea Targaryen,HasAttribute,Traveled on Balerion
+Aerea Targaryen,HasAttribute,Experienced illness during her travels
+Daenys Targaryen,IsMemberOf,House Targaryen
+Daenys Targaryen,HasParent,Unknown
+Daenys Targaryen,HasSibling,Unknown
+Daenys Targaryen,HasAttribute,Also known as Daenys the Dreamer
+Daenys Targaryen,HasAttribute,Prophetic dreamer
+Daenys Targaryen,HasAttribute,Warned of the Doom of Valyria
+Daenys Targaryen,HasAttribute,Foretold the destruction of Valyria
+Daenys Targaryen,HasAttribute,Convinced her father to move House Targaryen to Dragonstone
+Daenys Targaryen,HasAttribute,Played a crucial role in the survival of House Targaryen
+Daenys Targaryen,HasAttribute,Great-great-grandmother of Aegon the Conqueror
+Daenys Targaryen,HasAttribute,Ancestor of House Targaryen in Westeros
+Arthur Dayne,IsMemberOf,House Dayne
+Arthur Dayne,HasAlias,Sword of the Morning
+Arthur Dayne,HasTitle,Knight
+Arthur Dayne,HasTitle,Commander of the Kingsguard
+Arthur Dayne,HasAttribute,Skilled swordsman
+Arthur Dayne,HasAttribute,Valyrian steel sword: Dawn
+Arthur Dayne,HasAttribute,Respected knight
+Arthur Dayne,HasAttribute,Loyal to House Targaryen
+Arthur Dayne,HasAttribute,Defended the Tower of Joy
+Arthur Dayne,HasAttribute,Fought alongside Rhaegar Targaryen
+Arthur Dayne,HasAttribute,Valued for his honor and prowess
+Ulrick Dayne,IsMemberOf,House Dayne
+Ulrick Dayne,HasAlias,Sword of the Morning
+Ulrick Dayne,HasAttribute,Legendary knight
+Ulrick Dayne,HasAttribute,Skilled swordsman
+Ulrick Dayne,HasAttribute,Valiant warrior
+Ulrick Dayne,HasAttribute,Champion of House Dayne
+Ulrick Dayne,HasAttribute,Associated with the title "Sword of the Morning"
+Ulrick Dayne,HasAttribute,Defender of the realm
+Ulrick Dayne,HasAttribute,Respected throughout Westeros
+Ulrick Dayne,HasAttribute,Heroic deeds in history
+Ashara Dayne,IsMemberOf,House Dayne
+Ashara Dayne,HasParent,Unknown
+Ashara Dayne,HasSibling,Arthur Dayne
+Ashara Dayne,HasAttribute,Beautiful and alluring
+Ashara Dayne,HasAttribute,Rumored to have had a romantic involvement with Eddard Stark
+Ashara Dayne,HasAttribute,Tragic figure
+Ashara Dayne,HasAttribute,Associated with the mystery surrounding the Tower of Joy
+Ashara Dayne,HasAttribute,Committed suicide by throwing herself from the Palestone Sword tower at Starfall
+Ashara Dayne,HasAttribute,Subject of speculation and rumors regarding the parentage of Jon Snow
+Jon Snow,IsMemberOf,House Stark
+Jon Snow,HasParent,Eddard Stark
+Jon Snow,HasParent,Unknown mother (later revealed as Lyanna Stark)
+Jon Snow,HasSibling,Robb Stark
+Jon Snow,HasSibling,Sansa Stark
+Jon Snow,HasSibling,Arya Stark
+Jon Snow,HasSibling,Bran Stark
+Jon Snow,HasSibling,Rickon Stark
+Jon Snow,HasAttribute,Bastard son of Eddard Stark
+Jon Snow,HasAttribute,Former Lord Commander of the Night's Watch
+Jon Snow,HasAttribute,King in the North
+Jon Snow,HasAttribute,Rightful heir to the Iron Throne (later revealed as Aegon Targaryen)
+Jon Snow,HasAttribute,Skilled swordsman
+Jon Snow,HasAttribute,Trained by House Stark
+Jon Snow,HasAttribute,Resurrected by Melisandre
+Jon Snow,HasAttribute,Aligned with Daenerys Targaryen
+Jon Snow,HasAttribute,Played a key role in the Battle of Winterfell against the White Walkers
+Jon Snow,HasAttribute,Ends the series by returning to the North beyond the Wall
+House Velaryon,IsLocatedIn,Driftmark
+House Velaryon,HasSeat,High Tide
+House Velaryon,HasRegion,Crownlands
+House Velaryon,HasAllegiance,House Targaryen
+House Velaryon,HasAncestralWeapon,Seasnake
+House Velaryon,HasAttribute,Valyrian descent
+House Velaryon,HasAttribute,Sea power
+House Velaryon,HasAttribute,Sea captains and sailors
+House Velaryon,HasAttribute,Allied with House Targaryen during the Dance of the Dragons
+House Velaryon,HasAttribute,Played a crucial role in the Targaryen conquest of Westeros
+House Velaryon,HasAttribute,Close ties with House Targaryen
+House Velaryon,HasAttribute,Frequent marriages into the Targaryen family
+House Velaryon,HasAttribute,Blue hair and purple eyes, typical of Valyrian heritage
+House Velaryon,HasAttribute,Skilled at naval warfare
+Corlys Velaryon,IsMemberOf,House Velaryon
+Laenor Velaryon,IsMemberOf,House Velaryon
+Rhaenys Velaryon,IsMemberOf,House Velaryon
+Monterys Velaryon,IsMemberOf,House Velaryon
+Jacaerys Velaryon,IsMemberOf,House Velaryon
+Lucerys Velaryon,IsMemberOf,House Velaryon
+Joffrey Velaryon,IsMemberOf,House Velaryon
+Rhaenyra Targaryen,IsMemberOf,House Targaryen
+Rhaenyra Targaryen,HasParent,Viserys I Targaryen
+Rhaenyra Targaryen,HasParent,Emma Arryn
+Rhaenyra Targaryen,HasSibling,Aegon II Targaryen
+Rhaenyra Targaryen,HasSibling,Baelon Targaryen
+Rhaenyra Targaryen,HasSibling,Visaera Targaryen
+Rhaenyra Targaryen,HasSibling,Daeron Targaryen
+Rhaenyra Targaryen,HasSibling,Aegon III Targaryen
+Rhaenyra Targaryen,HasSpouse,Laenor Velaryon
+Rhaenyra Targaryen,HasSpouse,Daemon Targaryen
+Rhaenyra Targaryen,HasChild,Jacaerys Velaryon
+Rhaenyra Targaryen,HasChild,Lucerys Velaryon
+Rhaenyra Targaryen,HasChild,Joffrey Velaryon
+Rhaenyra Targaryen,HasChild,Maelor Targaryen
+Rhaenyra Targaryen,HasAttribute,Eldest surviving child of King Viserys I Targaryen
+Rhaenyra Targaryen,HasAttribute,Heir to the Iron Throne
+Rhaenyra Targaryen,HasAttribute,Claimant during the Dance of the Dragons civil war
+Rhaenyra Targaryen,HasAttribute,Feud with her half-brother Aegon II Targaryen over the throne
+Rhaenyra Targaryen,HasAttribute,Associated with the Blacks faction during the Dance of the Dragons
+Rhaenyra Targaryen,HasAttribute,Characterized as strong-willed and ambitious
+Hoster Tully,IsMemberOf,House Tully
+Hoster Tully,HasChild,Catelyn Stark
+Hoster Tully,HasChild,Lysa Arryn
+Hoster Tully,HasChild,Edmure Tully
+Hoster Tully,HasAttribute,Lord of Riverrun
+Hoster Tully,HasAttribute,Head of House Tully
+Hoster Tully,HasAttribute,Married to Minisa Whent
+Hoster Tully,HasAttribute,Participated in Robert's Rebellion
+Hoster Tully,HasAttribute,Ally of House Stark
+Hoster Tully,HasAttribute,Ally of House Arryn
+Hoster Tully,HasAttribute,Part of the Riverlands
+Hoster Tully,HasAttribute,Father-in-law of Eddard Stark
+Hoster Tully,HasAttribute,Father-in-law of Jon Arryn
+Hoster Tully,HasAttribute,Uncle of Brynden Tully
+Hoster Tully,HasAttribute,Characterized as a wise and respected lord
+Brynden Tully,IsMemberOf,House Tully
+Brynden Tully,HasSibling,Hoster Tully
+Brynden Tully,HasAttribute,Commonly known as "The Blackfish"
+Brynden Tully,HasAttribute,Skilled warrior and military commander
+Brynden Tully,HasAttribute,Unmarried and without children
+Brynden Tully,HasAttribute,Exiled from Riverrun after refusing to support the marriage of his niece, Catelyn Stark, to Eddard Stark
+Brynden Tully,HasAttribute,Resided at Riverrun for many years before his exile
+Brynden Tully,HasAttribute,Played a key role in defending Riverrun during the War of the Five Kings
+Brynden Tully,HasAttribute,Escaped Riverrun after the Lannister siege and remained a fugitive
+Brynden Tully,HasAttribute,Joined forces with the Brotherhood Without Banners
+Brynden Tully,HasAttribute,Participated in battles against House Lannister and their allies
+Brynden Tully,HasAttribute,Skilled tactician and strategist
+Brynden Tully,HasAttribute,Respected by his men and allies for his leadership abilities
+Brynden Tully,HasAttribute,Has a strong sense of loyalty to his family and their honor
+Brynden Tully,HasAttribute,Known for his strong sense of independence and refusal to compromise his principles
+Brynden Tully,HasAttribute,Fought alongside his brother, Hoster Tully, during various conflicts in the Riverlands
+Brynden Tully,HasAttribute,Characterized as a stubborn and fiercely independent individual
+Riverrun,IsLocatedIn,Riverlands
+Riverrun,IsSeatOf,House Tully
+Riverrun,HasRegion,The Riverlands
+Riverrun,HasAllegiance,House Tully
+Riverrun,HasAttribute,Strategically located at the junction of the Tumblestone and Red Fork rivers
+Riverrun,HasAttribute,Well-fortified castle and stronghold
+Riverrun,HasAttribute,Built with a central keep surrounded by high walls and towers
+Riverrun,HasAttribute,Surrounded by a moat and accessible only by a drawbridge
+Riverrun,HasAttribute,Overlooks the Red Fork River to the south and the Tumblestone River to the north
+Riverrun,HasAttribute,Played a key role in controlling river traffic and trade in the Riverlands
+Riverrun,HasAttribute,Strategically important during times of conflict in the Riverlands and beyond
+Riverrun,HasAttribute,Hosts the Tully family and their household
+Riverrun,HasAttribute,Frequented by various noble visitors and allies of House Tully
+Riverrun,HasAttribute,Part of the Seven Kingdoms of Westeros
+Riverrun,HasAttribute,Frequently involved in the politics and conflicts of the Riverlands
+The Reach,HasHouse,House Tyrell
+The Reach,HasHouse,House Hightower
+The Reach,HasHouse,House Redwyne
+The Reach,HasHouse,House Tarly
+The Reach,HasHouse,House Florent
+The Reach,HasAttribute,Fertile lands and abundant harvests
+The Reach,HasAttribute,Strategic location between the Red Mountains of Dorne and the Sunset Sea
+The Reach,HasAttribute,Known as the breadbasket of the Seven Kingdoms
+The Reach,HasAttribute,Renowned for its chivalric traditions and knightly orders
+The Reach,HasAttribute,Home to the Arbor, famous for its vineyards and wine production
+The Reach,HasAttribute,Ruled by House Tyrell from the seat of Highgarden
+The Riverlands,IsRegionOf,Westeros
+The Riverlands,HasCapital,Riverrun
+The Riverlands,HasHouse,House Tully
+The Riverlands,HasHouse,House Frey
+The Riverlands,HasHouse,House Mallister
+The Riverlands,HasHouse,House Blackwood
+The Riverlands,HasHouse,House Bracken
+The Riverlands,HasHouse,House Darry
+The Riverlands,HasHouse,House Piper
+The Riverlands,HasHouse,House Vance
+The Riverlands,HasHouse,House Whent
+The Riverlands,HasAttribute,Strategically located at the heart of the Seven Kingdoms
+The Riverlands,HasAttribute,Comprised of fertile lands and numerous rivers
+The Riverlands,HasAttribute,Frequently affected by conflicts due to its central location
+The Riverlands,HasAttribute,Home to Harrenhal, the seat of House Whent
+The Riverlands,HasAttribute,Ruled by House Tully from the seat of Riverrun
+The Riverlands,HasAttribute,Notable for its varied landscape, including plains, forests, and marshes
+The Westerlands,IsRegionOf,Westeros
+The Westerlands,HasCapital,Casterly Rock
+The Westerlands,HasHouse,House Lannister
+The Westerlands,HasHouse,House Crakehall
+The Westerlands,HasHouse,House Reyne
+The Westerlands,HasHouse,House Lefford
+The Westerlands,HasHouse,House Marbrand
+The Westerlands,HasHouse,House Serrett
+The Westerlands,HasHouse,House Swyft
+The Westerlands,HasHouse,House Westerling
+The Westerlands,HasHouse,House Payne
+The Westerlands,HasHouse,House Banefort
+The Westerlands,HasHouse,House Brax
+The Westerlands,HasHouse,House Lydden
+The Westerlands,HasHouse,House Kenning
+The Westerlands,HasHouse,House Jast
+The Westerlands,HasHouse,House Parren
+The Westerlands,HasHouse,House Plumm
+The Westerlands,HasHouse,House Stackspear
+The Westerlands,HasHouse,House Greenfield
+The Westerlands,HasHouse,House Prester
+The Westerlands,HasHouse,House Falwell
+The Westerlands,HasHouse,House Farman
+The Westerlands,HasHouse,House Serrett
+The Westerlands,HasHouse,House Turnberry
+The Westerlands,HasHouse,House Sarwyck
+The Westerlands,HasHouse,House Westerling
+The Westerlands,HasHouse,House Parren
+The Westerlands,HasHouse,House Spicer
+The Westerlands,HasHouse,House Broom
+The Westerlands,HasHouse,House Yarwyck
+The Westerlands,HasHouse,House Clegane
+The Westerlands,HasHouse,House Moreland
+The Westerlands,HasHouse,House Yew
+The Westerlands,HasHouse,House Bettley
+The Westerlands,HasHouse,House Hawthorne
+The Westerlands,HasHouse,House Ruttiger
+The Westerlands,HasHouse,House Serrett
+The Westerlands,HasHouse,House Spicer
+The Westerlands,HasHouse,House Turnberry
+The Westerlands,HasHouse,House Yarwyck
+The Westerlands,HasHouse,House Clegane
+The Westerlands,HasHouse,House Moreland
+The Westerlands,HasHouse,House Yew
+The Westerlands,HasHouse,House Bettley
+The Westerlands,HasHouse,House Hawthorne
+The Westerlands,HasHouse,House Ruttiger
+The Westerlands,HasHouse,House Marbrand
+The Westerlands,HasAttribute,Located in the western part of Westeros
+The Westerlands,HasAttribute,Abundant in mineral wealth, particularly gold and silver mines
+The Westerlands,HasAttribute,Ruled by House Lannister from the seat of Casterly Rock
+The Westerlands,HasAttribute,Home to major cities such as Lannisport, the largest port in the Westerlands
+The Westerlands,HasAttribute,Known for its rugged hills and rocky coastline
+The Westerlands,HasAttribute,Frequently involved in trade and commerce due to its coastal access and mineral resources
+The Westerlands,HasAttribute,Fiercely loyal to House Lannister and its interests
+Principality of Dorne,IsRegionOf,Westeros
+Principality of Dorne,HasCapital,Sunspear
+Principality of Dorne,HasHouse,House Martell
+Principality of Dorne,HasHouse,House Yronwood
+Principality of Dorne,HasHouse,House Dayne
+Principality of Dorne,HasHouse,House Blackmont
+Principality of Dorne,HasHouse,House Allyrion
+Principality of Dorne,HasHouse,House Jordayne
+Principality of Dorne,HasHouse,House Manwoody
+Principality of Dorne,HasHouse,House Qorgyle
+Principality of Dorne,HasHouse,House Fowler
+Principality of Dorne,HasHouse,House Vaith
+Principality of Dorne,HasHouse,House Santagar
+Principality of Dorne,HasHouse,House Toland
+Principality of Dorne,HasHouse,House Uller
+Principality of Dorne,HasHouse,House Drinkwater
+Principality of Dorne,HasHouse,House Gargalen
+Principality of Dorne,HasHouse,House Wells
+Principality of Dorne,HasHouse,House Wyl
+Principality of Dorne,HasAttribute,Located in the southern part of Westeros
+Principality of Dorne,HasAttribute,Known for its arid climate and desert regions
+Principality of Dorne,HasAttribute,Ruled by House Martell from the seat of Sunspear
+Principality of Dorne,HasAttribute,Fiercely independent and resistant to outside influence
+Principality of Dorne,HasAttribute,Famous for its warrior culture and skilled fighters
+Principality of Dorne,HasAttribute,Home to the Water Gardens, the summer residence of House Martell
+Principality of Dorne,HasAttribute,Frequently involved in conflicts with neighboring regions
+The North,HasHouse,House Stark
+The North,HasHouse,House Bolton
+The North,HasHouse,House Umber
+The North,HasHouse,House Karstark
+The North,HasHouse,House Mormont
+The North,HasHouse,House Manderly
+The North,HasHouse,House Glover
+The North,HasHouse,House Cerwyn
+The North,HasHouse,House Tallhart
+The North,HasHouse,House Flint
+The North,HasHouse,House Reed
+The North,HasHouse,House Hornwood
+The North,HasHouse,House Dustin
+The North,HasHouse,House Ryswell
+The North,HasHouse,House Forrester
+The North,HasHouse,House Whitehill
+The North,HasHouse,House Cassel
+The North,HasHouse,House Poole
+The North,HasHouse,House Flint of the mountains
+The North,HasAttribute,Located in the northern part of Westeros
+The North,HasAttribute,Characterized by its harsh climate and vast wilderness
+The North,HasAttribute,Ruled by House Stark from the seat of Winterfell
+The North,HasAttribute,Famous for its strong sense of honor and loyalty
+The North,HasAttribute,Home to the Wall, a massive fortification protecting the realm from threats beyond
+The North,HasAttribute,Notable for its distinct cultural customs and traditions
+The North,HasAttribute,Subject to frequent invasions from wildling raiders and other northern threats
+The Vale,HasHouse,House Arryn
+The Vale,HasHouse,House Royce
+The Vale,HasHouse,House Corbray
+The Vale,HasHouse,House Belmore
+The Vale,HasHouse,House Waynwood
+The Vale,HasHouse,House Hunter
+The Vale,HasHouse,House Redfort
+The Vale,HasHouse,House Grafton
+The Vale,HasHouse,House Templeton
+The Vale,HasHouse,House Lynderly
+The Vale,HasHouse,House Egen
+The Vale,HasHouse,House Sunderland
+The Vale,HasHouse,House Hardyng
+The Vale,HasHouse,House Upcliff
+The Vale,HasHouse,House Melcolm
+The Vale,HasHouse,House Tollett
+The Vale,HasAttribute,Located in the eastern part of Westeros
+The Vale,HasAttribute,Characterized by its mountainous terrain and natural fortifications
+The Vale,HasAttribute,Ruled by House Arryn from the seat of The Eyrie
+The Vale,HasAttribute,Famous for its impregnable castle, The Eyrie, perched atop the Giant's Lance
+The Vale,HasAttribute,Known for its isolationist tendencies and neutrality in most conflicts
+The Vale,HasAttribute,Home to the Bloody Gate, a key defensive position guarding the entrance to the Vale
+The Vale,HasAttribute,Frequently associated with the worship of the Seven, particularly in the Andal tradition
+The Iron Islands,HasHouse,House Greyjoy
+The Iron Islands,HasHouse,House Harlaw
+The Iron Islands,HasHouse,House Goodbrother
+The Iron Islands,HasHouse,House Botley
+The Iron Islands,HasHouse,House Blacktyde
+The Iron Islands,HasHouse,House Drumm
+The Iron Islands,HasHouse,House Saltcliffe
+The Iron Islands,HasHouse,House Sunderly
+The Iron Islands,HasHouse,House Farwynd
+The Iron Islands,HasHouse,House Stonetree
+The Iron Islands,HasAttribute,Located off the western coast of Westeros
+The Iron Islands,HasAttribute,Comprised of a collection of rocky islands and isles
+The Iron Islands,HasAttribute,Ruled by House Greyjoy from the seat of Pyke
+The Iron Islands,HasAttribute,Famous for their seafaring culture and fierce warriors
+The Iron Islands,HasAttribute,Dependent on raiding and piracy for their livelihood
+The Iron Islands,HasAttribute,Home to the Iron Fleet, a powerful naval force commanded by House Greyjoy
+The Iron Islands,HasAttribute,Frequently engaged in conflicts with the mainland and other regions of Westeros
